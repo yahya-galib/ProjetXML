@@ -28,10 +28,10 @@ for row in data[1:]:
 
     x.write('   <station id ="'+row[0]+'">\n')
     x.write('       <station_name>'+row[1]+'</station_name>\n')
-    x.write('       <station_desc>'+row[2]+'<station_desc>\n')
+    x.write('       <station_desc>'+row[2]+'</station_desc>\n')
     x.write('       <emplacement>\n')
-    x.write('           <station_lat>'+row[3]+'<station_lat>\n')
-    x.write('           <station_lon>'+row[4]+'<station_lon>\n')
+    x.write('           <station_lat>'+row[3]+'</station_lat>\n')
+    x.write('           <station_lon>'+row[4]+'</station_lon>\n')
     x.write('       </emplacement>\n')
     x.write('       <lignes>\n')
     ligne_vu = set()
@@ -53,8 +53,8 @@ for row in data[1:]:
 
     x.write('   <ligne id ="'+row[7]+'" short_name ="'+row[9]+'">\n')
     x.write('       <nom_complet>\n')
-    x.write('           <first>'+row[10]+'<first>\n')
-    x.write('           <last>'+row[11]+'<last>\n')
+    x.write('           <first>'+row[10]+'</first>\n')
+    x.write('           <last>'+row[11]+'</last>\n')
     x.write('       </nom_complet>\n')
     i = n
     route_vu = set()
