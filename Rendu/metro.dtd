@@ -1,0 +1,26 @@
+<!ELEMENT metro (station*, ligne*)>
+
+<!ELEMENT station (station_name, station_desc, emplacement, lignes)>
+<!ATTLIST station id ID #REQUIRED>
+<!ELEMENT station_name (#PCDATA)>
+<!ELEMENT station_desc (#PCDATA)>
+<!ELEMENT emplacement (station_lat, station_lon)>
+<!ELEMENT station_lat (#PCDATA)>
+<!ELEMENT station_lon (#PCDATA)>
+<!ELEMENT lignes (lig*)>
+<!ELEMENT lig EMPTY>
+<!ATTLIST lig idref IDREF #REQUIRED>
+
+<!ELEMENT ligne (nom_complet, route*)>
+<!ATTLIST ligne id ID #REQUIRED>
+<!ATTLIST ligne short_name CDATA #REQUIRED>
+<!ELEMENT nom_complet (first,last)>
+<!ELEMENT first (#PCDATA)>
+<!ELEMENT last (#PCDATA)>
+<!ELEMENT route (direction, arret*)>
+<!ATTLIST route id ID #REQUIRED>
+<!ELEMENT direction (#PCDATA)>
+<!ELEMENT arret EMPTY>
+<!ATTLIST arret idref IDREF #REQUIRED>
+<!ATTLIST arret index CDATA #REQUIRED>
+
