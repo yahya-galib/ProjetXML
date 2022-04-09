@@ -19,14 +19,15 @@ f.close()
 x = open('output.xml','w')
 
 x.write('<?xml version="1.0" encoding="UTF-8"?>\n')
-x.write('<Metro> \n')
+x.write('<!DOCTYPE gedcom SYSTEM "metro.dtd">\n')
+x.write('<metro> \n')
 station_vu = set () # pour eliminer les doublons on stocke dans station_vu.
 for row in data[1:]:
     if row[0] in station_vu : continue # on passe la station si elle existe déjà. 
 
     station_vu.add(row[0])
 
-    x.write('   <station id ="'+row[0]+'">\n')
+    x.write('   <station id="S'+row[0]+'">\n')
     x.write('       <station_name>'+row[1]+'</station_name>\n')
     x.write('       <station_desc>'+row[2]+'</station_desc>\n')
     x.write('       <emplacement>\n')
@@ -39,7 +40,7 @@ for row in data[1:]:
         if row2[0] == row[0] in station_vu : 
             if row2[7] in ligne_vu : continue
             ligne_vu.add(row2[7])
-            x.write('           <lig idref = "'+row2[9]+'"/>\n')   
+            x.write('           <lig idref = "L'+row2[7]+'"/>\n')   
     x.write('       </lignes>\n')
     x.write('   </station>\n')
     x.write('\n')
@@ -51,7 +52,7 @@ for row in data[1:]:
 
     ligne_vu.add(row[7])
 
-    x.write('   <ligne id ="'+row[7]+'" short_name ="'+row[9]+'">\n')
+    x.write('   <ligne id ="L'+row[7]+'" short_name ="'+row[9]+'">\n')
     x.write('       <nom_complet>\n')
     x.write('           <first>'+row[10]+'</first>\n')
     x.write('           <last>'+row[11]+'</last>\n')
@@ -63,12 +64,12 @@ for row in data[1:]:
         if data[i-1][6] in route_vu : continue
 
         route_vu.add(data[i-1][6])
-        x.write('       <route id = "'+data[i-1][6]+'">\n')
+        x.write('       <route id = "R'+data[i-1][6]+'">\n')
         x.write('           <direction>'+data[i-1][8]+'</direction>\n')
         for row3 in data[1:]:
             if row3[6] == data[i-1][6] :
-                x.write('              <arret idref = "'+row3[0]+'" index = "'+row3[5]+'"/>\n')
+                x.write('              <arret idref = "S'+row3[0]+'" index = "'+row3[5]+'"/>\n')
         x.write('       </route>\n')
     x.write('   </ligne>\n')
     x.write('\n')
-x.write('</Metro>')
+x.write('</metro>')

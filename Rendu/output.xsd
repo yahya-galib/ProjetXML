@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 
-  <xsd:element name="Metro" type="Metro"/>
+  <xsd:element name="metro" type="Metro"/>
 
 
  <xsd:complexType name="Emplacement">
@@ -14,7 +14,7 @@
 
  
  <xsd:complexType name="Reference">
-         <xsd:attribute name="idref" type="Libelle"/>
+         <xsd:attribute name="idref" type="xsd:IDREF"/>
  </xsd:complexType>
  
  <xsd:complexType name="Lignes">
@@ -23,13 +23,6 @@
     </xsd:sequence>
  </xsd:complexType>
 
-  <xsd:simpleType name="IDstation">
-    <xsd:restriction base="xsd:int">
-      <xsd:pattern value="[0-9]{4}"/>
-    </xsd:restriction>
-  </xsd:simpleType>
- 
-
   <xsd:complexType name="Station">
         <xsd:sequence>
             <xsd:element name="station_name" type="xsd:string"/>
@@ -37,7 +30,7 @@
             <xsd:element name="emplacement" type="Emplacement"/>
             <xsd:element name="lignes" type="Lignes"/>
         </xsd:sequence>
-        <xsd:attribute name="id" type="IDstation"/>
+        <xsd:attribute name="id" type="xsd:ID"/>
   </xsd:complexType>
 
   <xsd:complexType name="Nom_complet">
@@ -48,7 +41,7 @@
   </xsd:complexType>
 
   <xsd:complexType name="Arret">
-        <xsd:attribute name="idref" type="IDstation"/>
+        <xsd:attribute name="idref" type="xsd:IDREF"/>
         <xsd:attribute name="index" type="xsd:int"/>
   </xsd:complexType>
 
@@ -59,7 +52,7 @@
         <xsd:element name="direction" type="xsd:int"/>
         <xsd:element name="arret" type="Arret" minOccurs="0" maxOccurs="unbounded"/>
     </xsd:sequence>
-    <xsd:attribute name="id" type="xsd:int"/>
+    <xsd:attribute name="id" type="xsd:ID"/>
   </xsd:complexType>
   
   <xsd:simpleType name="Libelle">
@@ -73,7 +66,7 @@
             <xsd:element name="nom_complet" type="Nom_complet"/>
             <xsd:element name="route" type="Route" minOccurs="0" maxOccurs="unbounded"/>
         </xsd:sequence>
-        <xsd:attribute name="id" type="xsd:int"/>
+        <xsd:attribute name="id" type="xsd:ID"/>
         <xsd:attribute name="short_name" type="Libelle"/>
   </xsd:complexType>
 

@@ -1,0 +1,4781 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gedcom SYSTEM "metro.dtd">
+<metro> 
+   <station id="S2212">
+       <station_name>Château de Vincennes</station_name>
+       <station_desc>Gare routière - 94080</station_desc>
+       <emplacement>
+           <station_lat>48.8443251443686</station_lat>
+           <station_lon>2.44055234621182</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280236"/>
+       </lignes>
+   </station>
+
+   <station id="S2080">
+       <station_name>Bérault</station_name>
+       <station_desc>98 avenue de Paris - 94080</station_desc>
+       <emplacement>
+           <station_lat>48.8453687501573</station_lat>
+           <station_lon>2.42824450962049</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280236"/>
+       </lignes>
+   </station>
+
+   <station id="S3068">
+       <station_name>Saint-Mandé</station_name>
+       <station_desc>180 avenue Galliéni - 94067</station_desc>
+       <emplacement>
+           <station_lat>48.8462382566208</station_lat>
+           <station_lon>2.41899982810926</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280236"/>
+       </lignes>
+   </station>
+
+   <station id="S2924">
+       <station_name>Porte de Vincennes</station_name>
+       <station_desc>99 Cours de Vincennes - 75120</station_desc>
+       <emplacement>
+           <station_lat>48.8470165184191</station_lat>
+           <station_lon>2.41081688233476</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280236"/>
+       </lignes>
+   </station>
+
+   <station id="S2716">
+       <station_name>Nation</station_name>
+       <station_desc>Terre-plein face au 3 place de la Nation - 75112</station_desc>
+       <emplacement>
+           <station_lat>48.8490101536482</station_lat>
+           <station_lon>2.39766461279101</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280236"/>
+           <lig idref="L1544644"/>
+           <lig idref="L2280310"/>
+           <lig idref="L2280360"/>
+       </lignes>
+   </station>
+
+   <station id="S2988">
+       <station_name>Reuilly-Diderot</station_name>
+       <station_desc>Boulevard Diderot - 75112</station_desc>
+       <emplacement>
+           <station_lat>48.8473528769588</station_lat>
+           <station_lon>2.38584254004024</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280236"/>
+           <lig idref="L2280344"/>
+       </lignes>
+   </station>
+
+   <station id="S2424">
+       <station_name>Gare de Lyon</station_name>
+       <station_desc>Rue de Bercy - 75112</station_desc>
+       <emplacement>
+           <station_lat>48.8446521509829</station_lat>
+           <station_lon>2.37310814754528</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280236"/>
+           <lig idref="L2280413"/>
+       </lignes>
+   </station>
+
+   <station id="S2068">
+       <station_name>Bastille</station_name>
+       <station_desc>Rue de la Roquette - 75104</station_desc>
+       <emplacement>
+           <station_lat>48.8529756746542</station_lat>
+           <station_lon>2.36921882444334</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280236"/>
+           <lig idref="L2280297"/>
+           <lig idref="L2280344"/>
+       </lignes>
+   </station>
+
+   <station id="S3080">
+       <station_name>Saint-Paul Le Marais</station_name>
+       <station_desc>Rivoli terre plein face au 10 rue de - 75104</station_desc>
+       <emplacement>
+           <station_lat>48.855134518235</station_lat>
+           <station_lon>2.36133433906766</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280236"/>
+       </lignes>
+   </station>
+
+   <station id="S2464">
+       <station_name>Hôtel de Ville</station_name>
+       <station_desc>Rue du Renard - 75104</station_desc>
+       <emplacement>
+           <station_lat>48.8573559271695</station_lat>
+           <station_lon>2.35207356685872</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280236"/>
+           <lig idref="L2280382"/>
+       </lignes>
+   </station>
+
+   <station id="S2224">
+       <station_name>Châtelet</station_name>
+       <station_desc>Théâtre du Châtelet - 75101</station_desc>
+       <emplacement>
+           <station_lat>48.8572036455044</station_lat>
+           <station_lon>2.34722471105584</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280236"/>
+           <lig idref="L2280284"/>
+           <lig idref="L2280325"/>
+           <lig idref="L2280382"/>
+           <lig idref="L2280413"/>
+       </lignes>
+   </station>
+
+   <station id="S2592">
+       <station_name>Louvre-Rivoli</station_name>
+       <station_desc>Amiral de Coligny 8 rue de l' - 75101</station_desc>
+       <emplacement>
+           <station_lat>48.8608798575938</station_lat>
+           <station_lon>2.3409732758179</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280236"/>
+       </lignes>
+   </station>
+
+   <station id="S2752">
+       <station_name>Palais-Royal Musée du Louvre</station_name>
+       <station_desc>Terre-plein face au 93 rue de Rivoli - 75101</station_desc>
+       <emplacement>
+           <station_lat>48.8633873850655</station_lat>
+           <station_lon>2.33548383677237</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280236"/>
+           <lig idref="L2280325"/>
+       </lignes>
+   </station>
+
+   <station id="S3160">
+       <station_name>Tuileries</station_name>
+       <station_desc>210 rue de Rivoli - 75101</station_desc>
+       <emplacement>
+           <station_lat>48.8647801625001</station_lat>
+           <station_lon>2.32909495442943</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280236"/>
+       </lignes>
+   </station>
+
+   <station id="S2260">
+       <station_name>Concorde</station_name>
+       <station_desc>Place de la Concorde - 75108</station_desc>
+       <emplacement>
+           <station_lat>48.8656780964178</station_lat>
+           <station_lon>2.32119377180187</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280236"/>
+           <lig idref="L2280344"/>
+           <lig idref="L2280396"/>
+       </lignes>
+   </station>
+
+   <station id="S2184">
+       <station_name>Champs-Elysées-Clémenceau</station_name>
+       <station_desc>Clémenceau place - 75108</station_desc>
+       <emplacement>
+           <station_lat>48.8673665704698</station_lat>
+           <station_lon>2.31419106339366</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280236"/>
+           <lig idref="L2280400"/>
+       </lignes>
+   </station>
+
+   <station id="S2392">
+       <station_name>Franklin-Roosevelt</station_name>
+       <station_desc>Palais de la Découverte - 75108</station_desc>
+       <emplacement>
+           <station_lat>48.8690104279376</station_lat>
+           <station_lon>2.31025318089603</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280236"/>
+           <lig idref="L2280360"/>
+       </lignes>
+   </station>
+
+   <station id="S2436">
+       <station_name>George V</station_name>
+       <station_desc>118 avenue des Champs-Elysées - 75108</station_desc>
+       <emplacement>
+           <station_lat>48.8720456194264</station_lat>
+           <station_lon>2.30076918564495</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280236"/>
+       </lignes>
+   </station>
+
+   <station id="S2196">
+       <station_name>Charles de Gaulle-Etoile</station_name>
+       <station_desc>Place Charles de Gaulle - 75108</station_desc>
+       <emplacement>
+           <station_lat>48.8739310942679</station_lat>
+           <station_lon>2.2951272516501</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280236"/>
+           <lig idref="L1544644"/>
+           <lig idref="L2280310"/>
+       </lignes>
+   </station>
+
+   <station id="S2028">
+       <station_name>Argentine</station_name>
+       <station_desc>Rue des Acacias - 75117</station_desc>
+       <emplacement>
+           <station_lat>48.8756724859879</station_lat>
+           <station_lon>2.28944416448145</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280236"/>
+       </lignes>
+   </station>
+
+   <station id="S2936">
+       <station_name>Porte Maillot</station_name>
+       <station_desc>Palais des Congrès - 75117</station_desc>
+       <emplacement>
+           <station_lat>48.878006176279</station_lat>
+           <station_lon>2.28246564000133</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280236"/>
+       </lignes>
+   </station>
+
+   <station id="S2568">
+       <station_name>Les Sablons Jardin d'acclimatation</station_name>
+       <station_desc>Jardin d'Acclimatation - 92051</station_desc>
+       <emplacement>
+           <station_lat>48.8812991854911</station_lat>
+           <station_lon>2.27191517601779</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280236"/>
+       </lignes>
+   </station>
+
+   <station id="S2832">
+       <station_name>Pont de Neuilly</station_name>
+       <station_desc>209 avenue Charles de Gaulle - 92051</station_desc>
+       <emplacement>
+           <station_lat>48.8855061094182</station_lat>
+           <station_lon>2.25852747019736</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280236"/>
+       </lignes>
+   </station>
+
+   <station id="S2356">
+       <station_name>Esplanade de la Défense</station_name>
+       <station_desc>Quartier Saisons - 92062</station_desc>
+       <emplacement>
+           <station_lat>48.8883580601662</station_lat>
+           <station_lon>2.2499372128628</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280236"/>
+       </lignes>
+   </station>
+
+   <station id="S2516">
+       <station_name>La Défense Grande Arche</station_name>
+       <station_desc>Carpeaux rue. gare du RER La Défense - 92062</station_desc>
+       <emplacement>
+           <station_lat>48.8918267548365</station_lat>
+           <station_lon>2.23799204321562</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280236"/>
+       </lignes>
+   </station>
+
+   <station id="S2052">
+       <station_name>Avron</station_name>
+       <station_desc>Terre-plein face au 35 boulevard de Charonne - 75111</station_desc>
+       <emplacement>
+           <station_lat>48.8511938192133</station_lat>
+           <station_lon>2.39823914082312</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L1544644"/>
+       </lignes>
+   </station>
+
+   <station id="S2012">
+       <station_name>Alexandre-Dumas</station_name>
+       <station_desc>111 boulevard de Charonne - 75111</station_desc>
+       <emplacement>
+           <station_lat>48.8564263483252</station_lat>
+           <station_lon>2.39455425765499</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L1544644"/>
+       </lignes>
+   </station>
+
+   <station id="S2784">
+       <station_name>Philippe Auguste</station_name>
+       <station_desc>212 boulevard de Charonne - 75111</station_desc>
+       <emplacement>
+           <station_lat>48.8583788414699</station_lat>
+           <station_lon>2.3897347327397</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L1544644"/>
+       </lignes>
+   </station>
+
+   <station id="S2772">
+       <station_name>Père-Lachaise</station_name>
+       <station_desc>Avenue de la République - 75111</station_desc>
+       <emplacement>
+           <station_lat>48.863161205064</station_lat>
+           <station_lon>2.38726040018435</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L1544644"/>
+           <lig idref="L2280265"/>
+       </lignes>
+   </station>
+
+   <station id="S2676">
+       <station_name>Ménilmontant</station_name>
+       <station_desc>Ménilmontant 139/148 boulevard de - 75111</station_desc>
+       <emplacement>
+           <station_lat>48.865705787623</station_lat>
+           <station_lon>2.38442937516321</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L1544644"/>
+       </lignes>
+   </station>
+
+   <station id="S2288">
+       <station_name>Couronnes</station_name>
+       <station_desc>Belleville 37 boulevard de - 75111</station_desc>
+       <emplacement>
+           <station_lat>48.8693291694966</station_lat>
+           <station_lon>2.38053636616172</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L1544644"/>
+       </lignes>
+   </station>
+
+   <station id="S2076">
+       <station_name>Belleville</station_name>
+       <station_desc>Terre-plein face au 1 boulevard de la Villette - 75119</station_desc>
+       <emplacement>
+           <station_lat>48.8719457979749</station_lat>
+           <station_lon>2.3767510413738</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L1544644"/>
+           <lig idref="L2280382"/>
+       </lignes>
+   </station>
+
+   <station id="S2252">
+       <station_name>Colonel Fabien</station_name>
+       <station_desc>Tterre-plein face au 83 boulevard de la Villette - 75110</station_desc>
+       <emplacement>
+           <station_lat>48.8781849817922</station_lat>
+           <station_lon>2.37017454663636</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L1544644"/>
+       </lignes>
+   </station>
+
+   <station id="S2484">
+       <station_name>Jaurès</station_name>
+       <station_desc>Face au 2 place de Stalingrad - 75119</station_desc>
+       <emplacement>
+           <station_lat>48.8827685467488</station_lat>
+           <station_lon>2.36994579899074</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L1544644"/>
+           <lig idref="L2280297"/>
+           <lig idref="L2280337"/>
+       </lignes>
+   </station>
+
+   <station id="S3124">
+       <station_name>Stalingrad</station_name>
+       <station_desc>Bassin de la Villette - 75119</station_desc>
+       <emplacement>
+           <station_lat>48.8841892942088</station_lat>
+           <station_lon>2.36703044197457</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L1544644"/>
+           <lig idref="L2280297"/>
+           <lig idref="L2280325"/>
+       </lignes>
+   </station>
+
+   <station id="S2508">
+       <station_name>La Chapelle</station_name>
+       <station_desc>Rue du Faubourg Saint Denis - 75110</station_desc>
+       <emplacement>
+           <station_lat>48.8843886983582</station_lat>
+           <station_lon>2.35927656427673</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L1544644"/>
+       </lignes>
+   </station>
+
+   <station id="S2060">
+       <station_name>Barbès-Rochechouart</station_name>
+       <station_desc>Boulevard de la Chapelle - 75109</station_desc>
+       <emplacement>
+           <station_lat>48.8839317699344</station_lat>
+           <station_lon>2.34935570859965</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L1544644"/>
+           <lig idref="L2280284"/>
+       </lignes>
+   </station>
+
+   <station id="S2024">
+       <station_name>Anvers</station_name>
+       <station_desc>68 boulevard Rochechouart - 75118</station_desc>
+       <emplacement>
+           <station_lat>48.8828716901806</station_lat>
+           <station_lon>2.34416357280039</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L1544644"/>
+       </lignes>
+   </station>
+
+   <station id="S2796">
+       <station_name>Pigalle</station_name>
+       <station_desc>26 boulevard de Clichy - 75118</station_desc>
+       <emplacement>
+           <station_lat>48.8824225284176</station_lat>
+           <station_lon>2.33725468210153</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L1544644"/>
+           <lig idref="L2280396"/>
+       </lignes>
+   </station>
+
+   <station id="S2100">
+       <station_name>Blanche</station_name>
+       <station_desc>Terre-plein face au 59 boulevard de Clichy - 75118</station_desc>
+       <emplacement>
+           <station_lat>48.8837705188318</station_lat>
+           <station_lon>2.33248514827409</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L1544644"/>
+       </lignes>
+   </station>
+
+   <station id="S2804">
+       <station_name>Place de Clichy</station_name>
+       <station_desc>Terre-plein face au 7 place de Clichy - 75109</station_desc>
+       <emplacement>
+           <station_lat>48.8832039998766</station_lat>
+           <station_lon>2.32726602464114</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L1544644"/>
+           <lig idref="L2280400"/>
+       </lignes>
+   </station>
+
+   <station id="S3008">
+       <station_name>Rome</station_name>
+       <station_desc>60 boulevard des Batignolles - 75117</station_desc>
+       <emplacement>
+           <station_lat>48.882070833937</station_lat>
+           <station_lon>2.32039833930999</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L1544644"/>
+       </lignes>
+   </station>
+
+   <station id="S3196">
+       <station_name>Villiers</station_name>
+       <station_desc>Parc de Monceau - 75117</station_desc>
+       <emplacement>
+           <station_lat>48.8813242939447</station_lat>
+           <station_lon>2.31659676150882</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L1544644"/>
+           <lig idref="L2280265"/>
+       </lignes>
+   </station>
+
+   <station id="S2700">
+       <station_name>Monceau</station_name>
+       <station_desc>1 Place de la République Dominicaine - 75108</station_desc>
+       <emplacement>
+           <station_lat>48.8805768907484</station_lat>
+           <station_lon>2.30941594616481</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L1544644"/>
+       </lignes>
+   </station>
+
+   <station id="S2284">
+       <station_name>Courcelles</station_name>
+       <station_desc>Boulevard de Courcelles - 75108</station_desc>
+       <emplacement>
+           <station_lat>48.8792721516316</station_lat>
+           <station_lon>2.30329854668249</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L1544644"/>
+       </lignes>
+   </station>
+
+   <station id="S3144">
+       <station_name>Ternes</station_name>
+       <station_desc>Salle Pleyel - 75117</station_desc>
+       <emplacement>
+           <station_lat>48.8782280405077</station_lat>
+           <station_lon>2.29812143258218</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L1544644"/>
+       </lignes>
+   </station>
+
+   <station id="S3180">
+       <station_name>Victor Hugo</station_name>
+       <station_desc>4 place Victor Hugo - 75116</station_desc>
+       <emplacement>
+           <station_lat>48.8698649124841</station_lat>
+           <station_lon>2.28522620725044</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L1544644"/>
+       </lignes>
+   </station>
+
+   <station id="S2864">
+       <station_name>Porte Dauphine Maréchal de Lattre de Tassigny</station_name>
+       <station_desc>Boulevard Amiral Bruix - 75116</station_desc>
+       <emplacement>
+           <station_lat>48.8717922164175</station_lat>
+           <station_lon>2.27486996119569</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L1544644"/>
+       </lignes>
+   </station>
+
+   <station id="S2408">
+       <station_name>Gallieni Parc de Bagnolet</station_name>
+       <station_desc>Gare routière - 93006</station_desc>
+       <emplacement>
+           <station_lat>48.8632625265005</station_lat>
+           <station_lon>2.41597536849996</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280265"/>
+       </lignes>
+   </station>
+
+   <station id="S2868">
+       <station_name>Porte de Bagnolet</station_name>
+       <station_desc>Rue de la Py - 75120</station_desc>
+       <emplacement>
+           <station_lat>48.8643365354836</station_lat>
+           <station_lon>2.40882537603773</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280265"/>
+       </lignes>
+   </station>
+
+   <station id="S2412">
+       <station_name>Gambetta</station_name>
+       <station_desc>Père-Lachaise - 75120</station_desc>
+       <emplacement>
+           <station_lat>48.8650342980182</station_lat>
+           <station_lon>2.39854148691224</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280265"/>
+           <lig idref="L2280278"/>
+       </lignes>
+   </station>
+
+   <station id="S3024">
+       <station_name>Rue Saint-Maur</station_name>
+       <station_desc>Avenue de la République - 75111</station_desc>
+       <emplacement>
+           <station_lat>48.8640894057464</station_lat>
+           <station_lon>2.38089978855212</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280265"/>
+       </lignes>
+   </station>
+
+   <station id="S2756">
+       <station_name>Parmentier</station_name>
+       <station_desc>48 avenue de la République - 75111</station_desc>
+       <emplacement>
+           <station_lat>48.8652598566732</station_lat>
+           <station_lon>2.37475708171677</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280265"/>
+       </lignes>
+   </station>
+
+   <station id="S2984">
+       <station_name>République</station_name>
+       <station_desc>Av de la République - 75111</station_desc>
+       <emplacement>
+           <station_lat>48.8674108288354</station_lat>
+           <station_lon>2.36358782555805</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280265"/>
+           <lig idref="L2280297"/>
+           <lig idref="L2280344"/>
+           <lig idref="L2280360"/>
+           <lig idref="L2280382"/>
+       </lignes>
+   </station>
+
+   <station id="S3140">
+       <station_name>Temple</station_name>
+       <station_desc>Rue du Temple - 75103</station_desc>
+       <emplacement>
+           <station_lat>48.8667641678145</station_lat>
+           <station_lon>2.36157132703273</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280265"/>
+       </lignes>
+   </station>
+
+   <station id="S2032">
+       <station_name>Arts-et-Métiers</station_name>
+       <station_desc>Rue des Vertus - 75103</station_desc>
+       <emplacement>
+           <station_lat>48.8655518636348</station_lat>
+           <station_lon>2.35610815512031</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280265"/>
+           <lig idref="L2280382"/>
+       </lignes>
+   </station>
+
+   <station id="S2976">
+       <station_name>Réaumur-Sébastopol</station_name>
+       <station_desc>Square Emile Chantemps - 75102</station_desc>
+       <emplacement>
+           <station_lat>48.866046669631</station_lat>
+           <station_lon>2.35262095401519</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280265"/>
+           <lig idref="L2280284"/>
+       </lignes>
+   </station>
+
+   <station id="S3104">
+       <station_name>Sentier</station_name>
+       <station_desc>97 rue Réaumur - 75102</station_desc>
+       <emplacement>
+           <station_lat>48.8673503814313</station_lat>
+           <station_lon>2.34756723541508</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280265"/>
+       </lignes>
+   </station>
+
+   <station id="S2140">
+       <station_name>Bourse</station_name>
+       <station_desc>Rue Notre-Dame des Victoires - 75102</station_desc>
+       <emplacement>
+           <station_lat>48.8687617925964</station_lat>
+           <station_lon>2.3406741288121</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280265"/>
+       </lignes>
+   </station>
+
+   <station id="S2960">
+       <station_name>Quatre Septembre</station_name>
+       <station_desc>20 rue du Quatre Septembre - 75102</station_desc>
+       <emplacement>
+           <station_lat>48.869660572192</station_lat>
+           <station_lon>2.33632828164171</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280265"/>
+       </lignes>
+   </station>
+
+   <station id="S2744">
+       <station_name>Opéra</station_name>
+       <station_desc>Théâtre National de l'Opéra - 75109</station_desc>
+       <emplacement>
+           <station_lat>48.8705592165449</station_lat>
+           <station_lon>2.33255448204959</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280265"/>
+           <lig idref="L2280325"/>
+           <lig idref="L2280344"/>
+       </lignes>
+   </station>
+
+   <station id="S2456">
+       <station_name>Havre-Caumartin</station_name>
+       <station_desc>bd Haussmann - 75109</station_desc>
+       <emplacement>
+           <station_lat>48.8734618906704</station_lat>
+           <station_lon>2.32848048447348</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280265"/>
+           <lig idref="L2280360"/>
+       </lignes>
+   </station>
+
+   <station id="S3064">
+       <station_name>Saint-Lazare</station_name>
+       <station_desc>Rue de l' Arcade - 75108</station_desc>
+       <emplacement>
+           <station_lat>48.8760678143526</station_lat>
+           <station_lon>2.32418810077101</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280265"/>
+           <lig idref="L2280396"/>
+           <lig idref="L2280400"/>
+           <lig idref="L2280413"/>
+       </lignes>
+   </station>
+
+   <station id="S2364">
+       <station_name>Europe</station_name>
+       <station_desc>1 rue de Madrid - 75108</station_desc>
+       <emplacement>
+           <station_lat>48.8790604392127</station_lat>
+           <station_lon>2.32297463240589</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280265"/>
+       </lignes>
+   </station>
+
+   <station id="S2652">
+       <station_name>Malesherbes</station_name>
+       <station_desc>Place du Général Catroux - 75117</station_desc>
+       <emplacement>
+           <station_lat>48.8825364728922</station_lat>
+           <station_lon>2.31100924300551</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280265"/>
+       </lignes>
+   </station>
+
+   <station id="S3208">
+       <station_name>Wagram</station_name>
+       <station_desc>Place Monseigneur Loutil - 75117</station_desc>
+       <emplacement>
+           <station_lat>48.8837124760373</station_lat>
+           <station_lon>2.3055577575143</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280265"/>
+       </lignes>
+   </station>
+
+   <station id="S2776">
+       <station_name>Pereire</station_name>
+       <station_desc>Square Albert Besnard - 75117</station_desc>
+       <emplacement>
+           <station_lat>48.8850310612536</station_lat>
+           <station_lon>2.29713511150616</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280265"/>
+       </lignes>
+   </station>
+
+   <station id="S2872">
+       <station_name>Porte de Champerret</station_name>
+       <station_desc>Place Stuart-Merrill - 75117</station_desc>
+       <emplacement>
+           <station_lat>48.885739159692</station_lat>
+           <station_lon>2.29186062067553</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280265"/>
+       </lignes>
+   </station>
+
+   <station id="S2584">
+       <station_name>Louise Michel</station_name>
+       <station_desc>Rue Anatole France - 92044</station_desc>
+       <emplacement>
+           <station_lat>48.889269622246</station_lat>
+           <station_lon>2.2880551248039</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280265"/>
+       </lignes>
+   </station>
+
+   <station id="S2020">
+       <station_name>Anatole-France</station_name>
+       <station_desc>Rue Voltaire - 92044</station_desc>
+       <emplacement>
+           <station_lat>48.8920186263289</station_lat>
+           <station_lon>2.28551744479448</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280265"/>
+       </lignes>
+   </station>
+
+   <station id="S2828">
+       <station_name>Pont de Levallois-Bécon</station_name>
+       <station_desc>Rue Baudin - 92044</station_desc>
+       <emplacement>
+           <station_lat>48.8973099051795</station_lat>
+           <station_lon>2.2807686428069</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280265"/>
+       </lignes>
+   </station>
+
+   <station id="S2888">
+       <station_name>Porte de Clignancourt</station_name>
+       <station_desc>Rue Belliard - 75118</station_desc>
+       <emplacement>
+           <station_lat>48.8979701704072</station_lat>
+           <station_lon>2.34398838343329</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280284"/>
+       </lignes>
+   </station>
+
+   <station id="S3116">
+       <station_name>Simplon</station_name>
+       <station_desc>38 boulevard Ornano - 75118</station_desc>
+       <emplacement>
+           <station_lat>48.8941234446659</station_lat>
+           <station_lon>2.34724544444303</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280284"/>
+       </lignes>
+   </station>
+
+   <station id="S2660">
+       <station_name>Marcadet-Poissonniers</station_name>
+       <station_desc>88 boulevard Barbès - 75118</station_desc>
+       <emplacement>
+           <station_lat>48.8915439306306</station_lat>
+           <station_lon>2.34937111538191</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280284"/>
+           <lig idref="L2280396"/>
+       </lignes>
+   </station>
+
+   <station id="S2220">
+       <station_name>Château Rouge</station_name>
+       <station_desc>48 Place du Château Rouge - 75118</station_desc>
+       <emplacement>
+           <station_lat>48.8870862830504</station_lat>
+           <station_lon>2.34937007325138</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280284"/>
+       </lignes>
+   </station>
+
+   <station id="S2428">
+       <station_name>Gare du Nord</station_name>
+       <station_desc>Rue du Faubourg St Denis - 75110</station_desc>
+       <emplacement>
+           <station_lat>48.8797430642254</station_lat>
+           <station_lon>2.35460081047223</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280284"/>
+           <lig idref="L2280297"/>
+       </lignes>
+   </station>
+
+   <station id="S2420">
+       <station_name>Gare de l'Est Verdun</station_name>
+       <station_desc>Sortie - 75110</station_desc>
+       <emplacement>
+           <station_lat>48.8764170528791</station_lat>
+           <station_lon>2.35898704645633</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280284"/>
+           <lig idref="L2280297"/>
+           <lig idref="L2280325"/>
+       </lignes>
+   </station>
+
+   <station id="S2208">
+       <station_name>Château d'Eau</station_name>
+       <station_desc>Boulevard de Strasbourg - 75110</station_desc>
+       <emplacement>
+           <station_lat>48.8724541509199</station_lat>
+           <station_lon>2.35605616813029</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280284"/>
+       </lignes>
+   </station>
+
+   <station id="S3128">
+       <station_name>Strasbourg-Saint-Denis</station_name>
+       <station_desc>Porte Saint-Martin - 75102</station_desc>
+       <emplacement>
+           <station_lat>48.8696323651875</station_lat>
+           <station_lon>2.35450206308924</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280284"/>
+           <lig idref="L2280344"/>
+           <lig idref="L2280360"/>
+       </lignes>
+   </station>
+
+   <station id="S2360">
+       <station_name>Etienne Marcel</station_name>
+       <station_desc>14 rue Turbigo - 75101</station_desc>
+       <emplacement>
+           <station_lat>48.8637103664696</station_lat>
+           <station_lon>2.3489831961271</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280284"/>
+       </lignes>
+   </station>
+
+   <station id="S2564">
+       <station_name>Les Halles</station_name>
+       <station_desc>Rue Turbigo - 75101</station_desc>
+       <emplacement>
+           <station_lat>48.8620119707205</station_lat>
+           <station_lon>2.34647645190621</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280284"/>
+       </lignes>
+   </station>
+
+   <station id="S2244">
+       <station_name>Cité</station_name>
+       <station_desc>2 Place Louis Lepine - 75104</station_desc>
+       <emplacement>
+           <station_lat>48.8556848502863</station_lat>
+           <station_lon>2.34620292952872</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280284"/>
+       </lignes>
+   </station>
+
+   <station id="S3076">
+       <station_name>Saint-Michel</station_name>
+       <station_desc>Place Saint-Michel - 75105</station_desc>
+       <emplacement>
+           <station_lat>48.8535999078858</station_lat>
+           <station_lon>2.34399624109401</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280284"/>
+       </lignes>
+   </station>
+
+   <station id="S2736">
+       <station_name>Odéon</station_name>
+       <station_desc>Carrefour de l' Odéon - 75106</station_desc>
+       <emplacement>
+           <station_lat>48.8523148811949</station_lat>
+           <station_lon>2.33886172033634</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280284"/>
+           <lig idref="L2280372"/>
+       </lignes>
+   </station>
+
+   <station id="S3056">
+       <station_name>Saint-Germain des Prés</station_name>
+       <station_desc>Ecole des Beaux Arts - 75106</station_desc>
+       <emplacement>
+           <station_lat>48.8534472377383</station_lat>
+           <station_lon>2.33304632604487</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280284"/>
+       </lignes>
+   </station>
+
+   <station id="S3096">
+       <station_name>Saint-Sulpice</station_name>
+       <station_desc>Rue de Rennes - 75106</station_desc>
+       <emplacement>
+           <station_lat>48.8511463550549</station_lat>
+           <station_lon>2.33096285636646</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280284"/>
+       </lignes>
+   </station>
+
+   <station id="S3088">
+       <station_name>Saint-Placide</station_name>
+       <station_desc>Rue de Rennes - 75106</station_desc>
+       <emplacement>
+           <station_lat>48.8470118401686</station_lat>
+           <station_lon>2.32705511135513</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280284"/>
+       </lignes>
+   </station>
+
+   <station id="S2708">
+       <station_name>Montparnasse-Bienvenue</station_name>
+       <station_desc>Raoul Dautry place. SNCF Montparnasse - 75114</station_desc>
+       <emplacement>
+           <station_lat>48.8420770201873</station_lat>
+           <station_lon>2.32101044955512</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280284"/>
+           <lig idref="L2280310"/>
+           <lig idref="L2280396"/>
+           <lig idref="L2280400"/>
+       </lignes>
+   </station>
+
+   <station id="S3176">
+       <station_name>Vavin</station_name>
+       <station_desc>108 boulevard du Montparnasse - 75106</station_desc>
+       <emplacement>
+           <station_lat>48.8420598575821</station_lat>
+           <station_lon>2.32886705043721</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280284"/>
+       </lignes>
+   </station>
+
+   <station id="S2972">
+       <station_name>Raspail</station_name>
+       <station_desc>Boulevard Edgard Quinet - 75114</station_desc>
+       <emplacement>
+           <station_lat>48.8391569814968</station_lat>
+           <station_lon>2.33047415116293</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280284"/>
+           <lig idref="L2280310"/>
+       </lignes>
+   </station>
+
+   <station id="S2320">
+       <station_name>Denfert-Rochereau</station_name>
+       <station_desc>2 avenue du Général Leclerc - 75114</station_desc>
+       <emplacement>
+           <station_lat>48.8342768128446</station_lat>
+           <station_lon>2.33220379730479</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280284"/>
+           <lig idref="L2280310"/>
+       </lignes>
+   </station>
+
+   <station id="S2712">
+       <station_name>Mouton-Duvernet</station_name>
+       <station_desc>42 avenue du Général Leclerc - 75114</station_desc>
+       <emplacement>
+           <station_lat>48.8321915992697</station_lat>
+           <station_lon>2.33040699262932</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280284"/>
+       </lignes>
+   </station>
+
+   <station id="S2008">
+       <station_name>Alésia</station_name>
+       <station_desc>Place Victor et Hélène Basch - 75114</station_desc>
+       <emplacement>
+           <station_lat>48.8280660196865</station_lat>
+           <station_lon>2.32682742005084</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280284"/>
+       </lignes>
+   </station>
+
+   <station id="S2860">
+       <station_name>Porte d'Orléans Général Leclerc</station_name>
+       <station_desc>Rue de la Légion Etrangère - 75114</station_desc>
+       <emplacement>
+           <station_lat>48.8228170602349</station_lat>
+           <station_lon>2.325072625148</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280284"/>
+       </lignes>
+   </station>
+
+   <station id="S2620">
+       <station_name>Mairie de Montrouge</station_name>
+       <station_desc>Rue Louis Rolland - 92049</station_desc>
+       <emplacement>
+           <station_lat>48.8184663371133</station_lat>
+           <station_lon>2.31964321861782</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280284"/>
+       </lignes>
+   </station>
+
+   <station id="S2104">
+       <station_name>Bobigny-Pablo-Picasso</station_name>
+       <station_desc>Préfecture Trésorerie - 93008</station_desc>
+       <emplacement>
+           <station_lat>48.9071473125516</station_lat>
+           <station_lon>2.44945750453114</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280297"/>
+       </lignes>
+   </station>
+
+   <station id="S2108">
+       <station_name>Bobigny-Pantin Raymond Queneau</station_name>
+       <station_desc>7 rue de Paris - 93008</station_desc>
+       <emplacement>
+           <station_lat>48.895799232549</station_lat>
+           <station_lon>2.42485729839759</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280297"/>
+       </lignes>
+   </station>
+
+   <station id="S2352">
+       <station_name>Eglise de Pantin</station_name>
+       <station_desc>Rue Charles Auffrey - 93055</station_desc>
+       <emplacement>
+           <station_lat>48.893632527974</station_lat>
+           <station_lon>2.41290026603005</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280297"/>
+       </lignes>
+   </station>
+
+   <station id="S2460">
+       <station_name>Hoche</station_name>
+       <station_desc>Centre Commercial - 93055</station_desc>
+       <emplacement>
+           <station_lat>48.8914993837643</station_lat>
+           <station_lon>2.40312496065608</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280297"/>
+       </lignes>
+   </station>
+
+   <station id="S2904">
+       <station_name>Porte de Pantin</station_name>
+       <station_desc>Avenue Jean Jaurès - 75119</station_desc>
+       <emplacement>
+           <station_lat>48.8885839809719</station_lat>
+           <station_lon>2.39242287571854</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280297"/>
+       </lignes>
+   </station>
+
+   <station id="S2748">
+       <station_name>Ourcq</station_name>
+       <station_desc>161 avenue Jean Jaurès - 75119</station_desc>
+       <emplacement>
+           <station_lat>48.8869238774707</station_lat>
+           <station_lon>2.38665643440346</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280297"/>
+       </lignes>
+   </station>
+
+   <station id="S2540">
+       <station_name>Laumière</station_name>
+       <station_desc>av. Jean Jaurès - 75119</station_desc>
+       <emplacement>
+           <station_lat>48.8849316105461</station_lat>
+           <station_lon>2.37909124689984</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280297"/>
+       </lignes>
+   </station>
+
+   <station id="S2476">
+       <station_name>Jacques-Bonsergent</station_name>
+       <station_desc>bd de Magenta - 75110</station_desc>
+       <emplacement>
+           <station_lat>48.8707008232696</station_lat>
+           <station_lon>2.36057863558728</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280297"/>
+       </lignes>
+   </station>
+
+   <station id="S2732">
+       <station_name>Oberkampf</station_name>
+       <station_desc>43 boulevard Voltaire - 75111</station_desc>
+       <emplacement>
+           <station_lat>48.8649653032625</station_lat>
+           <station_lon>2.36763240629875</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280297"/>
+           <lig idref="L2280360"/>
+       </lignes>
+   </station>
+
+   <station id="S2992">
+       <station_name>Richard-Lenoir</station_name>
+       <station_desc>Boulevard Richar Lenoir - 75111</station_desc>
+       <emplacement>
+           <station_lat>48.8606859919958</station_lat>
+           <station_lon>2.3724109318802</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280297"/>
+       </lignes>
+   </station>
+
+   <station id="S2144">
+       <station_name>Bréguet-Sabin</station_name>
+       <station_desc>Boulevard Richard Lenoir - 75111</station_desc>
+       <emplacement>
+           <station_lat>48.8567679495405</station_lat>
+           <station_lon>2.37077385838438</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280297"/>
+       </lignes>
+   </station>
+
+   <station id="S2956">
+       <station_name>Quai de la Rapée</station_name>
+       <station_desc>Quai de la Rapée - 75112</station_desc>
+       <emplacement>
+           <station_lat>48.8459660324065</station_lat>
+           <station_lon>2.36691317973831</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280297"/>
+       </lignes>
+   </station>
+
+   <station id="S2416">
+       <station_name>Gare d'Austerlitz</station_name>
+       <station_desc>SNCF/RER C grandes lignes et banlieue - 75113</station_desc>
+       <emplacement>
+           <station_lat>48.8434142241437</station_lat>
+           <station_lon>2.36418839286764</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280297"/>
+           <lig idref="L2280372"/>
+       </lignes>
+   </station>
+
+   <station id="S3072">
+       <station_name>Saint-Marcel</station_name>
+       <station_desc>La Pitié-Salpêtrière - 75113</station_desc>
+       <emplacement>
+           <station_lat>48.8385167435152</station_lat>
+           <station_lon>2.36072755036178</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280297"/>
+       </lignes>
+   </station>
+
+   <station id="S2168">
+       <station_name>Campo-Formio</station_name>
+       <station_desc>106-112 boulevard de l' Hôpital - 75113</station_desc>
+       <emplacement>
+           <station_lat>48.8355512166754</station_lat>
+           <station_lon>2.3587520951914</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280297"/>
+       </lignes>
+   </station>
+
+   <station id="S2800">
+       <station_name>Place d'Italie</station_name>
+       <station_desc>Place d' Italie - 75113</station_desc>
+       <emplacement>
+           <station_lat>48.8315523026431</station_lat>
+           <station_lon>2.35533344321905</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280297"/>
+           <lig idref="L2280310"/>
+           <lig idref="L2280325"/>
+       </lignes>
+   </station>
+
+   <station id="S2788">
+       <station_name>Picpus</station_name>
+       <station_desc>46 avenue de Saint-Mandé - 75112</station_desc>
+       <emplacement>
+           <station_lat>48.8453231146139</station_lat>
+           <station_lon>2.40178631376069</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280310"/>
+       </lignes>
+   </station>
+
+   <station id="S2072">
+       <station_name>Bel-Air</station_name>
+       <station_desc>34 boulevard de Picpus - 75112</station_desc>
+       <emplacement>
+           <station_lat>48.8414320066483</station_lat>
+           <station_lon>2.40086919338009</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280310"/>
+       </lignes>
+   </station>
+
+   <station id="S2316">
+       <station_name>Daumesnil Félix Eboué</station_name>
+       <station_desc>Place Félix Eboué - 75112</station_desc>
+       <emplacement>
+           <station_lat>48.8396821402088</station_lat>
+           <station_lon>2.39558417034666</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280310"/>
+           <lig idref="L2280344"/>
+       </lignes>
+   </station>
+
+   <station id="S2324">
+       <station_name>Dugommier</station_name>
+       <station_desc>3 boulevard de Reuilly - 75112</station_desc>
+       <emplacement>
+           <station_lat>48.8388761516785</station_lat>
+           <station_lon>2.38934738757029</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280310"/>
+       </lignes>
+   </station>
+
+   <station id="S2084">
+       <station_name>Bercy</station_name>
+       <station_desc>Place du Bataillon du Pacifique - 75112</station_desc>
+       <emplacement>
+           <station_lat>48.8401922444035</station_lat>
+           <station_lon>2.37947725726606</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280310"/>
+           <lig idref="L2280413"/>
+       </lignes>
+   </station>
+
+   <station id="S2952">
+       <station_name>Quai de la Gare</station_name>
+       <station_desc>Quai de la Gare - 75113</station_desc>
+       <emplacement>
+           <station_lat>48.8376146757853</station_lat>
+           <station_lon>2.3738521156805</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280310"/>
+       </lignes>
+   </station>
+
+   <station id="S2240">
+       <station_name>Chevaleret</station_name>
+       <station_desc>Terre-plein face au 79 boulevard Vincent Auriol - 75113</station_desc>
+       <emplacement>
+           <station_lat>48.83496497072</station_lat>
+           <station_lon>2.3680913458794</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280310"/>
+       </lignes>
+   </station>
+
+   <station id="S2720">
+       <station_name>Nationale</station_name>
+       <station_desc>Terre-plein face au 124-143 boulevard Vincent Auriol - 75113</station_desc>
+       <emplacement>
+           <station_lat>48.8328812886788</station_lat>
+           <station_lon>2.3619094080162</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280310"/>
+       </lignes>
+   </station>
+
+   <station id="S2276">
+       <station_name>Corvisart</station_name>
+       <station_desc>Boulevard Auguste Blanqui - 75113</station_desc>
+       <emplacement>
+           <station_lat>48.8298632521128</station_lat>
+           <station_lon>2.35062272793209</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280310"/>
+       </lignes>
+   </station>
+
+   <station id="S2440">
+       <station_name>Glacière</station_name>
+       <station_desc>Face au 124 boulevard Auguste Blanqui - 75113</station_desc>
+       <emplacement>
+           <station_lat>48.8312479519874</station_lat>
+           <station_lon>2.34312207582299</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280310"/>
+       </lignes>
+   </station>
+
+   <station id="S3060">
+       <station_name>Saint-Jacques</station_name>
+       <station_desc>Terre-plein face au 46 boulevard Saint-Jacques - 75114</station_desc>
+       <emplacement>
+           <station_lat>48.8329916917758</station_lat>
+           <station_lon>2.33668289664435</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280310"/>
+       </lignes>
+   </station>
+
+   <station id="S2344">
+       <station_name>Edgar-Quinet</station_name>
+       <station_desc>Place Edgar Quinet - 75114</station_desc>
+       <emplacement>
+           <station_lat>48.8405677262044</station_lat>
+           <station_lon>2.32640281522276</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280310"/>
+       </lignes>
+   </station>
+
+   <station id="S2764">
+       <station_name>Pasteur</station_name>
+       <station_desc>183 rue de Vaugirard - 75115</station_desc>
+       <emplacement>
+           <station_lat>48.8420128040577</station_lat>
+           <station_lon>2.31329004383549</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280310"/>
+           <lig idref="L2280396"/>
+       </lignes>
+   </station>
+
+   <station id="S3112">
+       <station_name>Sèvres-Lecourbe</station_name>
+       <station_desc>Terre-plein face au 94 boulevard Garibaldi - 75115</station_desc>
+       <emplacement>
+           <station_lat>48.8449961508569</station_lat>
+           <station_lon>2.31086483004415</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280310"/>
+       </lignes>
+   </station>
+
+   <station id="S2164">
+       <station_name>Cambronne</station_name>
+       <station_desc>2 Boulevard Garibaldi Côté des N° pairs - 75115</station_desc>
+       <emplacement>
+           <station_lat>48.8476991081708</station_lat>
+           <station_lon>2.30203914366926</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280310"/>
+       </lignes>
+   </station>
+
+   <station id="S2524">
+       <station_name>La Motte-Picquet-Grenelle</station_name>
+       <station_desc>Face au 130-113 boulevard de Grenelle - 75115</station_desc>
+       <emplacement>
+           <station_lat>48.8490189283498</station_lat>
+           <station_lon>2.29776216070793</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280310"/>
+           <lig idref="L2280344"/>
+           <lig idref="L2280372"/>
+       </lignes>
+   </station>
+
+   <station id="S2328">
+       <station_name>Dupleix</station_name>
+       <station_desc>Boulevard de Grenelle - 75115</station_desc>
+       <emplacement>
+           <station_lat>48.8503925783197</station_lat>
+           <station_lon>2.29364833623054</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280310"/>
+       </lignes>
+   </station>
+
+   <station id="S2096">
+       <station_name>Bir-Hakeim Grenelle</station_name>
+       <station_desc>Tour Eiffel - 75115</station_desc>
+       <emplacement>
+           <station_lat>48.8543272185524</station_lat>
+           <station_lon>2.28881010373612</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280310"/>
+       </lignes>
+   </station>
+
+   <station id="S2760">
+       <station_name>Passy</station_name>
+       <station_desc>pl. du Costa Rica - 75116</station_desc>
+       <emplacement>
+           <station_lat>48.8575343825139</station_lat>
+           <station_lon>2.28559270581709</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280310"/>
+       </lignes>
+   </station>
+
+   <station id="S3156">
+       <station_name>Trocadéro</station_name>
+       <station_desc>Place du Trocédéro - 75116</station_desc>
+       <emplacement>
+           <station_lat>48.8626669058793</station_lat>
+           <station_lon>2.28726306155326</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280310"/>
+           <lig idref="L2280360"/>
+       </lignes>
+   </station>
+
+   <station id="S2112">
+       <station_name>Boissière</station_name>
+       <station_desc>57 avenue Kléber - 75116</station_desc>
+       <emplacement>
+           <station_lat>48.8668561547603</station_lat>
+           <station_lon>2.29003807344501</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280310"/>
+       </lignes>
+   </station>
+
+   <station id="S2504">
+       <station_name>Kléber</station_name>
+       <station_desc>15 avenue Kléber - 75116</station_desc>
+       <emplacement>
+           <station_lat>48.8713061490878</station_lat>
+           <station_lon>2.29333102089622</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280310"/>
+       </lignes>
+   </station>
+
+   <station id="S2512">
+       <station_name>La Courneuve-8-Mai-1945</station_name>
+       <station_desc>Place du 8 Mai 1945 - 93027</station_desc>
+       <emplacement>
+           <station_lat>48.9205145066857</station_lat>
+           <station_lon>2.4102257791202</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280325"/>
+       </lignes>
+   </station>
+
+   <station id="S2388">
+       <station_name>Fort d'Aubervilliers</station_name>
+       <station_desc>Gare routière - 93001</station_desc>
+       <emplacement>
+           <station_lat>48.9140567451466</station_lat>
+           <station_lon>2.40357633451101</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280325"/>
+       </lignes>
+   </station>
+
+   <station id="S2044">
+       <station_name>Aubervilliers Pantin 4 Chemins</station_name>
+       <station_desc>80 avenue Jean Jaurès - 93001</station_desc>
+       <emplacement>
+           <station_lat>48.9038980475295</station_lat>
+           <station_lon>2.39248007867247</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280325"/>
+       </lignes>
+   </station>
+
+   <station id="S2896">
+       <station_name>Porte de la Villette</station_name>
+       <station_desc>Cité des Sciences - La Géode - Le Zénith - 75119</station_desc>
+       <emplacement>
+           <station_lat>48.8975291568915</station_lat>
+           <station_lon>2.3856442301273</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280325"/>
+       </lignes>
+   </station>
+
+   <station id="S2268">
+       <station_name>Corentin-Cariou</station_name>
+       <station_desc>avenue Corentin Cariou - 75119</station_desc>
+       <emplacement>
+           <station_lat>48.8946815419881</station_lat>
+           <station_lon>2.38230219397424</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280325"/>
+       </lignes>
+   </station>
+
+   <station id="S2304">
+       <station_name>Crimée</station_name>
+       <station_desc>Rue de Crimée - 75119</station_desc>
+       <emplacement>
+           <station_lat>48.8902887750447</station_lat>
+           <station_lon>2.37677864892536</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280325"/>
+       </lignes>
+   </station>
+
+   <station id="S3000">
+       <station_name>Riquet</station_name>
+       <station_desc>Avenue de Flandre - 75119</station_desc>
+       <emplacement>
+           <station_lat>48.8883932319013</station_lat>
+           <station_lon>2.37443310888499</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280325"/>
+       </lignes>
+   </station>
+
+   <station id="S2580">
+       <station_name>Louis Blanc</station_name>
+       <station_desc>234 rue du Faubourg Saint-Martin - 75110</station_desc>
+       <emplacement>
+           <station_lat>48.8809004281511</station_lat>
+           <station_lon>2.36510721826434</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280325"/>
+           <lig idref="L2280337"/>
+       </lignes>
+   </station>
+
+   <station id="S2216">
+       <station_name>Château Landon</station_name>
+       <station_desc>188 rue du Faubourg Saint-Martin - 75110</station_desc>
+       <emplacement>
+           <station_lat>48.8784565668312</station_lat>
+           <station_lon>2.3620537162489</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280325"/>
+       </lignes>
+   </station>
+
+   <station id="S2824">
+       <station_name>Poissonnière</station_name>
+       <station_desc>Terre-plein face au 96/98 rue La Fayette - 75110</station_desc>
+       <emplacement>
+           <station_lat>48.877353095288</station_lat>
+           <station_lon>2.3493814239526</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280325"/>
+       </lignes>
+   </station>
+
+   <station id="S2160">
+       <station_name>Cadet</station_name>
+       <station_desc>Terre-plein face au 65 rue La Fayette - 75109</station_desc>
+       <emplacement>
+           <station_lat>48.8758257180382</station_lat>
+           <station_lon>2.34334512457327</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280325"/>
+       </lignes>
+   </station>
+
+   <station id="S2548">
+       <station_name>Le Peletier</station_name>
+       <station_desc>Rue de la Victoire - 75109</station_desc>
+       <emplacement>
+           <station_lat>48.8749630580261</station_lat>
+           <station_lon>2.34015679084921</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280325"/>
+       </lignes>
+   </station>
+
+   <station id="S2232">
+       <station_name>Chaussée d'Antin La Fayette</station_name>
+       <station_desc>Rue La Fayette - 75109</station_desc>
+       <emplacement>
+           <station_lat>48.8729858246652</station_lat>
+           <station_lon>2.33342622405285</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280325"/>
+           <lig idref="L2280360"/>
+       </lignes>
+   </station>
+
+   <station id="S2944">
+       <station_name>Pyramides</station_name>
+       <station_desc>Rue de l'Echelle - 75101</station_desc>
+       <emplacement>
+           <station_lat>48.8664969870386</station_lat>
+           <station_lon>2.3340942152591</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280325"/>
+           <lig idref="L2280413"/>
+       </lignes>
+   </station>
+
+   <station id="S2844">
+       <station_name>Pont Neuf</station_name>
+       <station_desc>quai du Louvre - 75101</station_desc>
+       <emplacement>
+           <station_lat>48.8585341022857</station_lat>
+           <station_lon>2.342117238666</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280325"/>
+       </lignes>
+   </station>
+
+   <station id="S2840">
+       <station_name>Pont Marie Cité des Arts</station_name>
+       <station_desc>quai de l'Hôtel de Ville - 75104</station_desc>
+       <emplacement>
+           <station_lat>48.8534635856948</station_lat>
+           <station_lon>2.35738397280916</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280325"/>
+       </lignes>
+   </station>
+
+   <station id="S3132">
+       <station_name>Sully-Morland</station_name>
+       <station_desc>Préfecture de Paris - 75104</station_desc>
+       <emplacement>
+           <station_lat>48.8507935947421</station_lat>
+           <station_lon>2.3612369937143</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280325"/>
+       </lignes>
+   </station>
+
+   <station id="S2500">
+       <station_name>Jussieu</station_name>
+       <station_desc>39 rue Liné - 75105</station_desc>
+       <emplacement>
+           <station_lat>48.8459684322046</station_lat>
+           <station_lon>2.35480739269422</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280325"/>
+           <lig idref="L2280372"/>
+       </lignes>
+   </station>
+
+   <station id="S2812">
+       <station_name>Place Monge Jardin des Plantes</station_name>
+       <station_desc>Arènes de Lutèce - 75105</station_desc>
+       <emplacement>
+           <station_lat>48.8431646927668</station_lat>
+           <station_lon>2.3521103624151</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280325"/>
+       </lignes>
+   </station>
+
+   <station id="S2180">
+       <station_name>Censier-Daubenton</station_name>
+       <station_desc>96 rue Monge - 75105</station_desc>
+       <emplacement>
+           <station_lat>48.8405943000016</station_lat>
+           <station_lon>2.35175561294669</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280325"/>
+       </lignes>
+   </station>
+
+   <station id="S2560">
+       <station_name>Les Gobelins</station_name>
+       <station_desc>Manufacture des Gobelins - 75113</station_desc>
+       <emplacement>
+           <station_lat>48.8361274397525</station_lat>
+           <station_lon>2.35208111783557</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280325"/>
+       </lignes>
+   </station>
+
+   <station id="S3148">
+       <station_name>Tolbiac</station_name>
+       <station_desc>Avenue d'Italie - 75113</station_desc>
+       <emplacement>
+           <station_lat>48.8261594539114</station_lat>
+           <station_lon>2.35701946618913</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280325"/>
+       </lignes>
+   </station>
+
+   <station id="S2632">
+       <station_name>Maison Blanche</station_name>
+       <station_desc>144 avenue d' Italie - 75113</station_desc>
+       <emplacement>
+           <station_lat>48.8228787750632</station_lat>
+           <station_lon>2.35807989429085</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280325"/>
+       </lignes>
+   </station>
+
+   <station id="S2544">
+       <station_name>Le Kremlin-Bicêtre</station_name>
+       <station_desc>Hôpital Kremlin Bicêtre - 94043</station_desc>
+       <emplacement>
+           <station_lat>48.8103851251295</station_lat>
+           <station_lon>2.36183068309113</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280325"/>
+       </lignes>
+   </station>
+
+   <station id="S2852">
+       <station_name>Porte d'Italie</station_name>
+       <station_desc>Boulevard Masséna - 75113</station_desc>
+       <emplacement>
+           <station_lat>48.8187170251155</station_lat>
+           <station_lon>2.36050083280537</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280325"/>
+       </lignes>
+   </station>
+
+   <station id="S2880">
+       <station_name>Porte de Choisy</station_name>
+       <station_desc>130 boulevard Masséna - 75113</station_desc>
+       <emplacement>
+           <station_lat>48.8199024461617</station_lat>
+           <station_lon>2.36496559829082</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280325"/>
+       </lignes>
+   </station>
+
+   <station id="S3184">
+       <station_name>Villejuif-Léo Lagrange</station_name>
+       <station_desc>Rue du Dauphin - 94076</station_desc>
+       <emplacement>
+           <station_lat>48.8037696632827</station_lat>
+           <station_lon>2.36390930638904</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280325"/>
+       </lignes>
+   </station>
+
+   <station id="S2856">
+       <station_name>Porte d'Ivry</station_name>
+       <station_desc>Avenue d'Ivry - 75113</station_desc>
+       <emplacement>
+           <station_lat>48.8213573623076</station_lat>
+           <station_lon>2.36930823722325</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280325"/>
+       </lignes>
+   </station>
+
+   <station id="S3192">
+       <station_name>Villejuif-Paul Vaillant Couturier Hôpital Paul Brousse</station_name>
+       <station_desc>Boulevard Maxime Gorky - 94076</station_desc>
+       <emplacement>
+           <station_lat>48.7959941323932</station_lat>
+           <station_lon>2.36823145191568</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280325"/>
+       </lignes>
+   </station>
+
+   <station id="S2792">
+       <station_name>Pierre et Marie Curie</station_name>
+       <station_desc>117-119 avenue Maurice Thorez - 94041</station_desc>
+       <emplacement>
+           <station_lat>48.8159171816004</station_lat>
+           <station_lon>2.37787881648387</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280325"/>
+       </lignes>
+   </station>
+
+   <station id="S3188">
+       <station_name>Villejuif-Louis Aragon</station_name>
+       <station_desc>Boulevard Maxime Gorky - 94076</station_desc>
+       <emplacement>
+           <station_lat>48.7866380111198</station_lat>
+           <station_lon>2.36711052738165</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280325"/>
+       </lignes>
+   </station>
+
+   <station id="S2608">
+       <station_name>Mairie d'Ivry</station_name>
+       <station_desc>Centre Commercial - 94041</station_desc>
+       <emplacement>
+           <station_lat>48.8112145354902</station_lat>
+           <station_lon>2.38350892873268</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280325"/>
+       </lignes>
+   </station>
+
+   <station id="S2056">
+       <station_name>Balard</station_name>
+       <station_desc>Rue Louis Armand - 75115</station_desc>
+       <emplacement>
+           <station_lat>48.836814988806</station_lat>
+           <station_lon>2.27868334645027</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280344"/>
+       </lignes>
+   </station>
+
+   <station id="S2588">
+       <station_name>Lourmel</station_name>
+       <station_desc>Avenue Felix Faure - 75115</station_desc>
+       <emplacement>
+           <station_lat>48.8386681290301</station_lat>
+           <station_lon>2.2822484883841</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280344"/>
+       </lignes>
+   </station>
+
+   <station id="S2128">
+       <station_name>Boucicaut</station_name>
+       <station_desc>Rue Félix Faure - 75115</station_desc>
+       <emplacement>
+           <station_lat>48.8410253553217</station_lat>
+           <station_lon>2.28792386733087</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280344"/>
+       </lignes>
+   </station>
+
+   <station id="S2380">
+       <station_name>Félix Faure</station_name>
+       <station_desc>Place Félix Faure - 75115</station_desc>
+       <emplacement>
+           <station_lat>48.8428245676741</station_lat>
+           <station_lon>2.29222496622052</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280344"/>
+       </lignes>
+   </station>
+
+   <station id="S2256">
+       <station_name>Commerce</station_name>
+       <station_desc>21 place du Commerce - 75115</station_desc>
+       <emplacement>
+           <station_lat>48.844613671994</station_lat>
+           <station_lon>2.29380298016915</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280344"/>
+       </lignes>
+   </station>
+
+   <station id="S2336">
+       <station_name>Ecole Militaire</station_name>
+       <station_desc>Avenue Duquesne - 75107</station_desc>
+       <emplacement>
+           <station_lat>48.8542609215541</station_lat>
+           <station_lon>2.30543956053901</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280344"/>
+       </lignes>
+   </station>
+
+   <station id="S2532">
+       <station_name>La Tour-Maubourg</station_name>
+       <station_desc>Les Invalides Tombeau de l'Empereur - Musée de l'Armée - 75107</station_desc>
+       <emplacement>
+           <station_lat>48.8572278606496</station_lat>
+           <station_lon>2.30979622582736</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280344"/>
+       </lignes>
+   </station>
+
+   <station id="S2472">
+       <station_name>Invalides</station_name>
+       <station_desc>Rue de l' Université - 75107</station_desc>
+       <emplacement>
+           <station_lat>48.8608507896675</station_lat>
+           <station_lon>2.31454811262665</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280344"/>
+           <lig idref="L2280400"/>
+       </lignes>
+   </station>
+
+   <station id="S2600">
+       <station_name>Madeleine</station_name>
+       <station_desc>Rue De Sèze - 75108</station_desc>
+       <emplacement>
+           <station_lat>48.8697947152178</station_lat>
+           <station_lon>2.32461201202227</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280344"/>
+           <lig idref="L2280396"/>
+           <lig idref="L2280413"/>
+       </lignes>
+   </station>
+
+   <station id="S2996">
+       <station_name>Richelieu-Drouot</station_name>
+       <station_desc>Rue Marivaux - 75109</station_desc>
+       <emplacement>
+           <station_lat>48.8720961237898</station_lat>
+           <station_lon>2.33932555585643</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280344"/>
+           <lig idref="L2280360"/>
+       </lignes>
+   </station>
+
+   <station id="S2448">
+       <station_name>Grands Boulevards</station_name>
+       <station_desc>Musée Grévin - 75109</station_desc>
+       <emplacement>
+           <station_lat>48.8715118170782</station_lat>
+           <station_lon>2.34320837754486</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280344"/>
+           <lig idref="L2280360"/>
+       </lignes>
+   </station>
+
+   <station id="S2120">
+       <station_name>Bonne Nouvelle</station_name>
+       <station_desc>Boulevard de Bonne Nouvelle - 75109</station_desc>
+       <emplacement>
+           <station_lat>48.870495832331</station_lat>
+           <station_lon>2.3488621174406</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280344"/>
+           <lig idref="L2280360"/>
+       </lignes>
+   </station>
+
+   <station id="S2384">
+       <station_name>Filles du Calvaire</station_name>
+       <station_desc>Musée Picasso - 75103</station_desc>
+       <emplacement>
+           <station_lat>48.8630781763554</station_lat>
+           <station_lon>2.36674588358473</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280344"/>
+       </lignes>
+   </station>
+
+   <station id="S3092">
+       <station_name>Saint-Sébastien-Froissart</station_name>
+       <station_desc>Rue Froissart - 75103</station_desc>
+       <emplacement>
+           <station_lat>48.8609749971872</station_lat>
+           <station_lon>2.36726229502294</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280344"/>
+       </lignes>
+   </station>
+
+   <station id="S2236">
+       <station_name>Chemin Vert</station_name>
+       <station_desc>Place des Vosges - 75103</station_desc>
+       <emplacement>
+           <station_lat>48.8575865444645</station_lat>
+           <station_lon>2.36803669494838</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280344"/>
+       </lignes>
+   </station>
+
+   <station id="S2552">
+       <station_name>Ledru-Rollin</station_name>
+       <station_desc>Rue Traversière - 75112</station_desc>
+       <emplacement>
+           <station_lat>48.8511941653637</station_lat>
+           <station_lon>2.37593173701289</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280344"/>
+       </lignes>
+   </station>
+
+   <station id="S2372">
+       <station_name>Faidherbe-Chaligny</station_name>
+       <station_desc>Hôpital St-Antoine - 75111</station_desc>
+       <emplacement>
+           <station_lat>48.8500676680027</station_lat>
+           <station_lon>2.38442877074163</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280344"/>
+       </lignes>
+   </station>
+
+   <station id="S2704">
+       <station_name>Montgallet</station_name>
+       <station_desc>68 rue de Reuilly - 75112</station_desc>
+       <emplacement>
+           <station_lat>48.844142731121</station_lat>
+           <station_lon>2.38962501284843</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280344"/>
+       </lignes>
+   </station>
+
+   <station id="S2680">
+       <station_name>Michel Bizot</station_name>
+       <station_desc>Avenue Daumesnil - 75112</station_desc>
+       <emplacement>
+           <station_lat>48.836991037653</station_lat>
+           <station_lon>2.40291960687004</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280344"/>
+       </lignes>
+   </station>
+
+   <station id="S2932">
+       <station_name>Porte Dorée</station_name>
+       <station_desc>Place Edouard Renard - 75112</station_desc>
+       <emplacement>
+           <station_lat>48.8354972528247</station_lat>
+           <station_lon>2.40618521221493</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280344"/>
+       </lignes>
+   </station>
+
+   <station id="S2876">
+       <station_name>Porte de Charenton</station_name>
+       <station_desc>68 Boulevard Poniatowsky - 75112</station_desc>
+       <emplacement>
+           <station_lat>48.8326603464822</station_lat>
+           <station_lon>2.40046363844978</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280344"/>
+       </lignes>
+   </station>
+
+   <station id="S2572">
+       <station_name>Liberté</station_name>
+       <station_desc>Rue de Paris - 94018</station_desc>
+       <emplacement>
+           <station_lat>48.825637111728</station_lat>
+           <station_lon>2.40741080542612</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280344"/>
+       </lignes>
+   </station>
+
+   <station id="S2192">
+       <station_name>Charenton-Ecoles</station_name>
+       <station_desc>Rue de Paris - 94018</station_desc>
+       <emplacement>
+           <station_lat>48.8214898191456</station_lat>
+           <station_lon>2.41385676233111</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280344"/>
+       </lignes>
+   </station>
+
+   <station id="S2340">
+       <station_name>Ecole Vétérinaire de Maisons-Alfort</station_name>
+       <station_desc>Musée Fragonard - 94046</station_desc>
+       <emplacement>
+           <station_lat>48.8150763201298</station_lat>
+           <station_lon>2.42163176673066</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280344"/>
+       </lignes>
+   </station>
+
+   <station id="S2640">
+       <station_name>Maisons-Alfort-Stade</station_name>
+       <station_desc>26-28 avenue du Général Leclerc - 94046</station_desc>
+       <emplacement>
+           <station_lat>48.8082253473524</station_lat>
+           <station_lon>2.43627582105113</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280344"/>
+       </lignes>
+   </station>
+
+   <station id="S2636">
+       <station_name>Maisons-Alfort-Les Juilliottes</station_name>
+       <station_desc>Avenue du Général Leclerc - 94046</station_desc>
+       <emplacement>
+           <station_lat>48.8025004418306</station_lat>
+           <station_lon>2.44618361855945</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280344"/>
+       </lignes>
+   </station>
+
+   <station id="S2292">
+       <station_name>Créteil-L'Echat Hôpital Henri Mondor</station_name>
+       <station_desc>Voie Félix Eboué - 94028</station_desc>
+       <emplacement>
+           <station_lat>48.7966012975785</station_lat>
+           <station_lon>2.44953152437608</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280344"/>
+       </lignes>
+   </station>
+
+   <station id="S2300">
+       <station_name>Créteil-Université</station_name>
+       <station_desc>Rue Ferdinand de Lesseps - 94028</station_desc>
+       <emplacement>
+           <station_lat>48.78972431608</station_lat>
+           <station_lon>2.45083610639066</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280344"/>
+       </lignes>
+   </station>
+
+   <station id="S2296">
+       <station_name>Créteil-Préfecture Hôtel de Ville</station_name>
+       <station_desc>Le Mont-Mesly - 94028</station_desc>
+       <emplacement>
+           <station_lat>48.7797572578446</station_lat>
+           <station_lon>2.45931429107883</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280344"/>
+       </lignes>
+   </station>
+
+   <station id="S2820">
+       <station_name>Pointe du Lac</station_name>
+       <station_desc>avenue François Mitterrand - 94028</station_desc>
+       <emplacement>
+           <station_lat>48.7687686357422</station_lat>
+           <station_lon>2.46431939894826</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280344"/>
+       </lignes>
+   </station>
+
+   <station id="S2836">
+       <station_name>Pont de Sèvres</station_name>
+       <station_desc>quai Alphonse Le Gallo - 92012</station_desc>
+       <emplacement>
+           <station_lat>48.8296903380227</station_lat>
+           <station_lon>2.23052843419233</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280360"/>
+       </lignes>
+   </station>
+
+   <station id="S2092">
+       <station_name>Billancourt</station_name>
+       <station_desc>88 bis avenue du Général Leclerc - 92012</station_desc>
+       <emplacement>
+           <station_lat>48.8320876442825</station_lat>
+           <station_lon>2.23816077687551</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280360"/>
+       </lignes>
+   </station>
+
+   <station id="S2664">
+       <station_name>Marcel Sembat</station_name>
+       <station_desc>Rue des Quatre Cheminées - 92012</station_desc>
+       <emplacement>
+           <station_lat>48.8338085869803</station_lat>
+           <station_lon>2.2434806144174</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280360"/>
+       </lignes>
+   </station>
+
+   <station id="S2908">
+       <station_name>Porte de Saint-Cloud</station_name>
+       <station_desc>Place de la Porte de Saint-Cloud - 75116</station_desc>
+       <emplacement>
+           <station_lat>48.8375653344736</station_lat>
+           <station_lon>2.2555912744479</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280360"/>
+       </lignes>
+   </station>
+
+   <station id="S2368">
+       <station_name>Exelmans</station_name>
+       <station_desc>Hôpital Henry Dunant - 75116</station_desc>
+       <emplacement>
+           <station_lat>48.8429069785359</station_lat>
+           <station_lon>2.2601443978809</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280360"/>
+       </lignes>
+   </station>
+
+   <station id="S2688">
+       <station_name>Michel-Ange-Molitor</station_name>
+       <station_desc>34 rue Molitor - 75116</station_desc>
+       <emplacement>
+           <station_lat>48.845056129032</station_lat>
+           <station_lon>2.26191142327977</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280360"/>
+           <lig idref="L2280372"/>
+       </lignes>
+   </station>
+
+   <station id="S2684">
+       <station_name>Michel-Ange-Auteuil</station_name>
+       <station_desc>55 rue d' Auteuil - 75116</station_desc>
+       <emplacement>
+           <station_lat>48.8479245927851</station_lat>
+           <station_lon>2.26423590578242</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280360"/>
+           <lig idref="L2280372"/>
+       </lignes>
+   </station>
+
+   <station id="S2480">
+       <station_name>Jasmin</station_name>
+       <station_desc>85 avenue Mozart - 75116</station_desc>
+       <emplacement>
+           <station_lat>48.8524385192227</station_lat>
+           <station_lon>2.26793392300095</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280360"/>
+       </lignes>
+   </station>
+
+   <station id="S2968">
+       <station_name>Ranelagh</station_name>
+       <station_desc>48 avenue Mozart - 75116</station_desc>
+       <emplacement>
+           <station_lat>48.855504403002</station_lat>
+           <station_lon>2.26995917825576</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280360"/>
+       </lignes>
+   </station>
+
+   <station id="S2528">
+       <station_name>La Muette</station_name>
+       <station_desc>5 avenue Mozart - 75116</station_desc>
+       <emplacement>
+           <station_lat>48.8580950496832</station_lat>
+           <station_lon>2.27409644811061</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280360"/>
+       </lignes>
+   </station>
+
+   <station id="S3012">
+       <station_name>Rue de la Pompe Avenue Georges Mandel</station_name>
+       <station_desc>56 avenue Georges Mandel - 75116</station_desc>
+       <emplacement>
+           <station_lat>48.8642533844034</station_lat>
+           <station_lon>2.27791676202885</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280360"/>
+       </lignes>
+   </station>
+
+   <station id="S2468">
+       <station_name>Iéna</station_name>
+       <station_desc>av. du Président Wilson - 75116</station_desc>
+       <emplacement>
+           <station_lat>48.8643501996473</station_lat>
+           <station_lon>2.29404526378309</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280360"/>
+       </lignes>
+   </station>
+
+   <station id="S2016">
+       <station_name>Alma-Marceau</station_name>
+       <station_desc>Pont de l'Alma - 75116</station_desc>
+       <emplacement>
+           <station_lat>48.8642986710467</station_lat>
+           <station_lon>2.30125141044993</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280360"/>
+       </lignes>
+   </station>
+
+   <station id="S3084">
+       <station_name>Saint-Philippe du Roule</station_name>
+       <station_desc>69 avenue Franklin D. Roosevelt - 75108</station_desc>
+       <emplacement>
+           <station_lat>48.8724706657937</station_lat>
+           <station_lon>2.31076910123035</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280360"/>
+       </lignes>
+   </station>
+
+   <station id="S2696">
+       <station_name>Miromesnil</station_name>
+       <station_desc>29 rue de la Boétie - 75108</station_desc>
+       <emplacement>
+           <station_lat>48.8734603255114</station_lat>
+           <station_lon>2.31604128891506</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280360"/>
+           <lig idref="L2280400"/>
+       </lignes>
+   </station>
+
+   <station id="S3032">
+       <station_name>Saint-Augustin</station_name>
+       <station_desc>Église Saint-Augustin - 75108</station_desc>
+       <emplacement>
+           <station_lat>48.8743867602128</station_lat>
+           <station_lon>2.32072783196473</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280360"/>
+       </lignes>
+   </station>
+
+   <station id="S3028">
+       <station_name>Saint-Ambroise</station_name>
+       <station_desc>86 boulevard Voltaire - 75111</station_desc>
+       <emplacement>
+           <station_lat>48.8616474242993</station_lat>
+           <station_lon>2.3731471407723</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280360"/>
+       </lignes>
+   </station>
+
+   <station id="S3204">
+       <station_name>Voltaire Léon Blum</station_name>
+       <station_desc>Boulevard Voltaire - 75111</station_desc>
+       <emplacement>
+           <station_lat>48.8576637257601</station_lat>
+           <station_lon>2.38003629679551</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280360"/>
+       </lignes>
+   </station>
+
+   <station id="S2204">
+       <station_name>Charonne</station_name>
+       <station_desc>188 boulevard Voltaire - 75111</station_desc>
+       <emplacement>
+           <station_lat>48.8546420474448</station_lat>
+           <station_lon>2.38503219333483</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280360"/>
+       </lignes>
+   </station>
+
+   <station id="S3016">
+       <station_name>Rue des Boulets</station_name>
+       <station_desc>232 boulevard Voltaire - 75111</station_desc>
+       <emplacement>
+           <station_lat>48.8522227131835</station_lat>
+           <station_lon>2.38911565092719</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280360"/>
+       </lignes>
+   </station>
+
+   <station id="S2156">
+       <station_name>Buzenval</station_name>
+       <station_desc>51 rue de Buzenval - 75120</station_desc>
+       <emplacement>
+           <station_lat>48.8517674745052</station_lat>
+           <station_lon>2.40118148387264</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280360"/>
+       </lignes>
+   </station>
+
+   <station id="S2656">
+       <station_name>Maraîchers</station_name>
+       <station_desc>67 bis rue des Pyrénées - 75120</station_desc>
+       <emplacement>
+           <station_lat>48.8526004024001</station_lat>
+           <station_lon>2.40638498956614</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280360"/>
+       </lignes>
+   </station>
+
+   <station id="S2900">
+       <station_name>Porte de Montreuil</station_name>
+       <station_desc>Rue d'Avron - 75120</station_desc>
+       <emplacement>
+           <station_lat>48.8533798778138</station_lat>
+           <station_lon>2.41045818741635</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280360"/>
+       </lignes>
+   </station>
+
+   <station id="S3004">
+       <station_name>Robespierre</station_name>
+       <station_desc>185 rue de Paris - 93048</station_desc>
+       <emplacement>
+           <station_lat>48.8556808081969</station_lat>
+           <station_lon>2.42365908548302</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280360"/>
+       </lignes>
+   </station>
+
+   <station id="S2308">
+       <station_name>Croix-de-Chavaux Jacques Duclos</station_name>
+       <station_desc>Rue de Paris - 93048</station_desc>
+       <emplacement>
+           <station_lat>48.857999073258</station_lat>
+           <station_lon>2.43586689567471</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280360"/>
+       </lignes>
+   </station>
+
+   <station id="S2616">
+       <station_name>Mairie de Montreuil</station_name>
+       <station_desc>Place Jean Jaurès - 93048</station_desc>
+       <emplacement>
+           <station_lat>48.862280986339</station_lat>
+           <station_lon>2.44182767912771</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280360"/>
+       </lignes>
+   </station>
+
+   <station id="S2132">
+       <station_name>Boulogne Pont de Saint-Cloud</station_name>
+       <station_desc>Musée Albert Kahn - 92012</station_desc>
+       <emplacement>
+           <station_lat>48.840680163122</station_lat>
+           <station_lon>2.22831366172434</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280372"/>
+       </lignes>
+   </station>
+
+   <station id="S2136">
+       <station_name>Boulogne-Jean-Jaurès</station_name>
+       <station_desc>Rue du Chateau - 92012</station_desc>
+       <emplacement>
+           <station_lat>48.8422801435297</station_lat>
+           <station_lon>2.23886297536727</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280372"/>
+       </lignes>
+   </station>
+
+   <station id="S2188">
+       <station_name>Chardon-Lagache</station_name>
+       <station_desc>11 rue Chardon Lagache - 75116</station_desc>
+       <emplacement>
+           <station_lat>48.845104139567</station_lat>
+           <station_lon>2.26693605903225</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280372"/>
+       </lignes>
+   </station>
+
+   <station id="S2692">
+       <station_name>Mirabeau</station_name>
+       <station_desc>63 avenue de Versailles - 75116</station_desc>
+       <emplacement>
+           <station_lat>48.8470848589049</station_lat>
+           <station_lon>2.27307491492201</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280372"/>
+       </lignes>
+   </station>
+
+   <station id="S2488">
+       <station_name>Javel-André-Citroen</station_name>
+       <station_desc>Rue de la Convention - 75115</station_desc>
+       <emplacement>
+           <station_lat>48.8459638804841</station_lat>
+           <station_lon>2.27781512635377</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280372"/>
+       </lignes>
+   </station>
+
+   <station id="S2200">
+       <station_name>Charles Michels</station_name>
+       <station_desc>36 rue des Entrepreneurs - 75115</station_desc>
+       <emplacement>
+           <station_lat>48.8463629755008</station_lat>
+           <station_lon>2.28563106588287</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280372"/>
+       </lignes>
+   </station>
+
+   <station id="S2048">
+       <station_name>Avenue Emile-Zola</station_name>
+       <station_desc>Rue du Commerce - 75115</station_desc>
+       <emplacement>
+           <station_lat>48.8468521519498</station_lat>
+           <station_lon>2.29544882793447</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280372"/>
+       </lignes>
+   </station>
+
+   <station id="S3100">
+       <station_name>Ségur</station_name>
+       <station_desc>UNESCO - Miollis - 75115</station_desc>
+       <emplacement>
+           <station_lat>48.8468647020692</station_lat>
+           <station_lon>2.30726884757893</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280372"/>
+       </lignes>
+   </station>
+
+   <station id="S2332">
+       <station_name>Duroc</station_name>
+       <station_desc>bd du Montparnasse - 75107</station_desc>
+       <emplacement>
+           <station_lat>48.8469925009228</station_lat>
+           <station_lon>2.31654234477023</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280372"/>
+           <lig idref="L2280400"/>
+       </lignes>
+   </station>
+
+   <station id="S3164">
+       <station_name>Vaneau</station_name>
+       <station_desc>97 rue de Sèvres - 75107</station_desc>
+       <emplacement>
+           <station_lat>48.84870084962</station_lat>
+           <station_lon>2.32123988193857</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280372"/>
+       </lignes>
+   </station>
+
+   <station id="S3108">
+       <station_name>Sèvres-Babylone</station_name>
+       <station_desc>Square Boucicaut - 75107</station_desc>
+       <emplacement>
+           <station_lat>48.8509392884308</station_lat>
+           <station_lon>2.32611465482228</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280372"/>
+           <lig idref="L2280396"/>
+       </lignes>
+   </station>
+
+   <station id="S2596">
+       <station_name>Mabillon</station_name>
+       <station_desc>Place d' Arcadie - 75106</station_desc>
+       <emplacement>
+           <station_lat>48.8528451336544</station_lat>
+           <station_lon>2.33514371851607</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280372"/>
+       </lignes>
+   </station>
+
+   <station id="S2248">
+       <station_name>Cluny-La Sorbonne</station_name>
+       <station_desc>Rue Saint Jacques - 75105</station_desc>
+       <emplacement>
+           <station_lat>48.8507957557043</station_lat>
+           <station_lon>2.34503088836523</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280372"/>
+       </lignes>
+   </station>
+
+   <station id="S2672">
+       <station_name>Maubert-Mutualité</station_name>
+       <station_desc>Panthéon - 75105</station_desc>
+       <emplacement>
+           <station_lat>48.8497169401636</station_lat>
+           <station_lon>2.34892555849187</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280372"/>
+       </lignes>
+   </station>
+
+   <station id="S2172">
+       <station_name>Cardinal-Lemoine</station_name>
+       <station_desc>55 rue du Cardinal Lemoine - 75105</station_desc>
+       <emplacement>
+           <station_lat>48.8467058690603</station_lat>
+           <station_lon>2.3513351789726</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280372"/>
+       </lignes>
+   </station>
+
+   <station id="S2348">
+       <station_name>Eglise d'Auteuil</station_name>
+       <station_desc>20 rue Wilhem - 75116</station_desc>
+       <emplacement>
+           <station_lat>48.8475322421166</station_lat>
+           <station_lon>2.26947928218771</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280372"/>
+       </lignes>
+   </station>
+
+   <station id="S2848">
+       <station_name>Porte d'Auteuil</station_name>
+       <station_desc>Route des Lacs - 75116</station_desc>
+       <emplacement>
+           <station_lat>48.8482259804112</station_lat>
+           <station_lon>2.25769888566092</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280372"/>
+       </lignes>
+   </station>
+
+   <station id="S2628">
+       <station_name>Mairie des Lilas</station_name>
+       <station_desc>Place du Colonel Fabien - 93045</station_desc>
+       <emplacement>
+           <station_lat>48.8800510617727</station_lat>
+           <station_lon>2.41566020606423</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280382"/>
+       </lignes>
+   </station>
+
+   <station id="S2928">
+       <station_name>Porte des Lilas</station_name>
+       <station_desc>Rue de Belleville - 75120</station_desc>
+       <emplacement>
+           <station_lat>48.8769382235089</station_lat>
+           <station_lon>2.40637656692978</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280382"/>
+           <lig idref="L2280278"/>
+       </lignes>
+   </station>
+
+   <station id="S3136">
+       <station_name>Télégraphe</station_name>
+       <station_desc>Rue de Belleville - 75120</station_desc>
+       <emplacement>
+           <station_lat>48.8755224492457</station_lat>
+           <station_lon>2.39867651114495</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280382"/>
+       </lignes>
+   </station>
+
+   <station id="S2808">
+       <station_name>Place des Fêtes</station_name>
+       <station_desc>Rue de Crimée - 75119</station_desc>
+       <emplacement>
+           <station_lat>48.8767294689067</station_lat>
+           <station_lon>2.39314603176784</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280382"/>
+           <lig idref="L2280337"/>
+       </lignes>
+   </station>
+
+   <station id="S2492">
+       <station_name>Jourdain</station_name>
+       <station_desc>7 rue du Jourdain - 75120</station_desc>
+       <emplacement>
+           <station_lat>48.875248294625</station_lat>
+           <station_lon>2.38932943415264</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280382"/>
+       </lignes>
+   </station>
+
+   <station id="S2948">
+       <station_name>Pyrénées</station_name>
+       <station_desc>401 rue des Pyrénées - 75120</station_desc>
+       <emplacement>
+           <station_lat>48.8738211723367</station_lat>
+           <station_lon>2.3848863721979</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280382"/>
+       </lignes>
+   </station>
+
+   <station id="S2444">
+       <station_name>Goncourt Hôpital Saint-Louis</station_name>
+       <station_desc>152 avenue Parmentier - 75110</station_desc>
+       <emplacement>
+           <station_lat>48.870015355247</station_lat>
+           <station_lon>2.37076879902147</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280382"/>
+       </lignes>
+   </station>
+
+   <station id="S2964">
+       <station_name>Rambuteau</station_name>
+       <station_desc>Centre Georges Pompidou - 75104</station_desc>
+       <emplacement>
+           <station_lat>48.8611933956416</station_lat>
+           <station_lon>2.35328695987071</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280382"/>
+       </lignes>
+   </station>
+
+   <station id="S2604">
+       <station_name>Mairie d'Issy</station_name>
+       <station_desc>Rue du Général Leclerc - 92040</station_desc>
+       <emplacement>
+           <station_lat>48.8243465260184</station_lat>
+           <station_lon>2.27356582960065</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280396"/>
+       </lignes>
+   </station>
+
+   <station id="S2272">
+       <station_name>Corentin-Celton</station_name>
+       <station_desc>Rue Ernest Renan - 92040</station_desc>
+       <emplacement>
+           <station_lat>48.8946815419881</station_lat>
+           <station_lon>2.38230219397424</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280396"/>
+       </lignes>
+   </station>
+
+   <station id="S2920">
+       <station_name>Porte de Versailles</station_name>
+       <station_desc>Palais des Sports - 75115</station_desc>
+       <emplacement>
+           <station_lat>48.832253452749</station_lat>
+           <station_lon>2.28786413781919</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280396"/>
+       </lignes>
+   </station>
+
+   <station id="S2264">
+       <station_name>Convention</station_name>
+       <station_desc>337 rue de Vaugirard - 75115</station_desc>
+       <emplacement>
+           <station_lat>48.8371369495626</station_lat>
+           <station_lon>2.29639609015556</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280396"/>
+       </lignes>
+   </station>
+
+   <station id="S3172">
+       <station_name>Vaugirard Adolphe Chérioux</station_name>
+       <station_desc>Square de Vergenne - 75115</station_desc>
+       <emplacement>
+           <station_lat>48.8394392812395</station_lat>
+           <station_lon>2.30107804247393</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280396"/>
+       </lignes>
+   </station>
+
+   <station id="S3200">
+       <station_name>Volontaires</station_name>
+       <station_desc>25 rue des Volontaires - 75115</station_desc>
+       <emplacement>
+           <station_lat>48.8414184426777</station_lat>
+           <station_lon>2.30799364938666</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280396"/>
+       </lignes>
+   </station>
+
+   <station id="S2376">
+       <station_name>Falguière</station_name>
+       <station_desc>138 rue du Cherche-Midi - 75115</station_desc>
+       <emplacement>
+           <station_lat>48.844323383002</station_lat>
+           <station_lon>2.3175646761806</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280396"/>
+       </lignes>
+   </station>
+
+   <station id="S2728">
+       <station_name>Notre-Dame des Champs</station_name>
+       <station_desc>Terre-plein face au 112 boulevard Raspail - 75106</station_desc>
+       <emplacement>
+           <station_lat>48.8447830483301</station_lat>
+           <station_lon>2.32844448329272</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280396"/>
+       </lignes>
+   </station>
+
+   <station id="S2980">
+       <station_name>Rennes</station_name>
+       <station_desc>Terre-plein face au 78 boulevard Raspail - 75106</station_desc>
+       <emplacement>
+           <station_lat>48.8481982688248</station_lat>
+           <station_lon>2.32802174862811</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280396"/>
+       </lignes>
+   </station>
+
+   <station id="S3020">
+       <station_name>Rue du Bac</station_name>
+       <station_desc>Terre-plein face au 2 boulevard Raspail - 75107</station_desc>
+       <emplacement>
+           <station_lat>48.8558913378155</station_lat>
+           <station_lon>2.32570499389931</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280396"/>
+       </lignes>
+   </station>
+
+   <station id="S3120">
+       <station_name>Solférino</station_name>
+       <station_desc>Rue de Solférino - 75107</station_desc>
+       <emplacement>
+           <station_lat>48.8585333595082</station_lat>
+           <station_lon>2.32308924878721</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280396"/>
+       </lignes>
+   </station>
+
+   <station id="S2040">
+       <station_name>Assemblée Nationale</station_name>
+       <station_desc>Angle avec le 239 bd Saint-Germain et la rue de Courty - 75107</station_desc>
+       <emplacement>
+           <station_lat>48.8614539042949</station_lat>
+           <station_lon>2.32030969050736</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280396"/>
+       </lignes>
+   </station>
+
+   <station id="S3152">
+       <station_name>Trinité-d'Estienne d'Orves</station_name>
+       <station_desc>50 rue de Chateaudun - 75109</station_desc>
+       <emplacement>
+           <station_lat>48.8763290374387</station_lat>
+           <station_lon>2.3318045685106</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280396"/>
+       </lignes>
+   </station>
+
+   <station id="S2724">
+       <station_name>Notre-Dame de Lorette</station_name>
+       <station_desc>Rue de Chateaudun - 75109</station_desc>
+       <emplacement>
+           <station_lat>48.8760505542374</station_lat>
+           <station_lon>2.33790869203761</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280396"/>
+       </lignes>
+   </station>
+
+   <station id="S3052">
+       <station_name>Saint-Georges</station_name>
+       <station_desc>Place Saint-Georges - 75109</station_desc>
+       <emplacement>
+           <station_lat>48.8785939552362</station_lat>
+           <station_lon>2.33782696891702</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280396"/>
+       </lignes>
+   </station>
+
+   <station id="S2004">
+       <station_name>Abbesses</station_name>
+       <station_desc>Place des Abbesses - 75118</station_desc>
+       <emplacement>
+           <station_lat>48.8843997149084</station_lat>
+           <station_lon>2.33839938417104</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280396"/>
+       </lignes>
+   </station>
+
+   <station id="S2536">
+       <station_name>Lamarck-Caulaincourt</station_name>
+       <station_desc>Lamarck 53/53 bis rue - 75118</station_desc>
+       <emplacement>
+           <station_lat>48.8897381077178</station_lat>
+           <station_lon>2.33914908667412</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280396"/>
+       </lignes>
+   </station>
+
+   <station id="S2496">
+       <station_name>Jules Joffrin</station_name>
+       <station_desc>2 place Jules Joffrin - 75118</station_desc>
+       <emplacement>
+           <station_lat>48.8924969769303</station_lat>
+           <station_lon>2.3443284105515</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280396"/>
+       </lignes>
+   </station>
+
+   <station id="S2668">
+       <station_name>Marx-Dormoy</station_name>
+       <station_desc>4 rue de la Chapelle - 75118</station_desc>
+       <emplacement>
+           <station_lat>48.8903740812211</station_lat>
+           <station_lon>2.35979700867061</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280396"/>
+       </lignes>
+   </station>
+
+   <station id="S2892">
+       <station_name>Porte de la Chapelle</station_name>
+       <station_desc>Rue Raymond Queneau - 75118</station_desc>
+       <emplacement>
+           <station_lat>48.8979593432415</station_lat>
+           <station_lon>2.35925506957965</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280396"/>
+       </lignes>
+   </station>
+
+   <station id="S2396">
+       <station_name>Front Populaire</station_name>
+       <station_desc>Place du Front Populaire - 93001</station_desc>
+       <emplacement>
+           <station_lat>48.9066665878747</station_lat>
+           <station_lon>2.36523013585438</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280396"/>
+       </lignes>
+   </station>
+
+   <station id="S2228">
+       <station_name>Châtillon Montrouge</station_name>
+       <station_desc>r. de l'Avenir - 92020</station_desc>
+       <emplacement>
+           <station_lat>48.8102833635108</station_lat>
+           <station_lon>2.30128887097595</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280400"/>
+       </lignes>
+   </station>
+
+   <station id="S2648">
+       <station_name>Malakoff-Rue Etienne Dolet</station_name>
+       <station_desc>87 rue Guy Môquet - 92020</station_desc>
+       <emplacement>
+           <station_lat>48.814704060567</station_lat>
+           <station_lon>2.29728473017064</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280400"/>
+       </lignes>
+   </station>
+
+   <station id="S2644">
+       <station_name>Malakoff-Plateau de Vanves</station_name>
+       <station_desc>r. Jean Bleuzen - 92020</station_desc>
+       <emplacement>
+           <station_lat>48.8224426939998</station_lat>
+           <station_lon>2.29793210532873</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280400"/>
+       </lignes>
+   </station>
+
+   <station id="S2916">
+       <station_name>Porte de Vanves</station_name>
+       <station_desc>9 boulevard Brune - 75114</station_desc>
+       <emplacement>
+           <station_lat>48.8277653265897</station_lat>
+           <station_lon>2.30431235076306</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280400"/>
+       </lignes>
+   </station>
+
+   <station id="S2816">
+       <station_name>Plaisance</station_name>
+       <station_desc>Rue Raymond Losserand - 75114</station_desc>
+       <emplacement>
+           <station_lat>48.8317580937884</station_lat>
+           <station_lon>2.31386654984816</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280400"/>
+       </lignes>
+   </station>
+
+   <station id="S2780">
+       <station_name>Pernety</station_name>
+       <station_desc>Rue Niepce - 75114</station_desc>
+       <emplacement>
+           <station_lat>48.8339338198109</station_lat>
+           <station_lon>2.31790897216328</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280400"/>
+       </lignes>
+   </station>
+
+   <station id="S2404">
+       <station_name>Gaîté</station_name>
+       <station_desc>Rue de la Gaîté - 75114</station_desc>
+       <emplacement>
+           <station_lat>48.8387518213886</station_lat>
+           <station_lon>2.32250918622471</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280400"/>
+       </lignes>
+   </station>
+
+   <station id="S3048">
+       <station_name>Saint-François-Xavier</station_name>
+       <station_desc>Avenue de Villars - 75107</station_desc>
+       <emplacement>
+           <station_lat>48.8509825598235</station_lat>
+           <station_lon>2.31442986460027</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280400"/>
+       </lignes>
+   </station>
+
+   <station id="S3168">
+       <station_name>Varenne</station_name>
+       <station_desc>13 boulevard des Invalides - 75107</station_desc>
+       <emplacement>
+           <station_lat>48.8563930691985</station_lat>
+           <station_lon>2.31475436481029</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280400"/>
+       </lignes>
+   </station>
+
+   <station id="S2576">
+       <station_name>Liège</station_name>
+       <station_desc>Terre-plein face au 21 rue de Liège - 75108</station_desc>
+       <emplacement>
+           <station_lat>48.8795371663808</station_lat>
+           <station_lon>2.32685794727296</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280400"/>
+       </lignes>
+   </station>
+
+   <station id="S2520">
+       <station_name>La Fourche</station_name>
+       <station_desc>Avenue de Clichy - 75117</station_desc>
+       <emplacement>
+           <station_lat>48.8874368425293</station_lat>
+           <station_lon>2.32572522201741</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280400"/>
+       </lignes>
+   </station>
+
+   <station id="S2148">
+       <station_name>Brochant</station_name>
+       <station_desc>Marché des Batignolles - 75117</station_desc>
+       <emplacement>
+           <station_lat>48.8906266330241</station_lat>
+           <station_lon>2.32019112127533</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280400"/>
+       </lignes>
+   </station>
+
+   <station id="S2452">
+       <station_name>Guy-Môquet</station_name>
+       <station_desc>86 avenue de Saint-Ouen - 75118</station_desc>
+       <emplacement>
+           <station_lat>48.8930090560512</station_lat>
+           <station_lon>2.32749583949049</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280400"/>
+       </lignes>
+   </station>
+
+   <station id="S2884">
+       <station_name>Porte de Clichy</station_name>
+       <station_desc>2 avenue de la Porte de Clichy - 75117</station_desc>
+       <emplacement>
+           <station_lat>48.894436060298</station_lat>
+           <station_lon>2.31356566546523</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280400"/>
+       </lignes>
+   </station>
+
+   <station id="S2912">
+       <station_name>Porte de Saint-Ouen</station_name>
+       <station_desc>Rue Liebniz - 75118</station_desc>
+       <emplacement>
+           <station_lat>48.8975117327715</station_lat>
+           <station_lon>2.32902164721221</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280400"/>
+       </lignes>
+   </station>
+
+   <station id="S2432">
+       <station_name>Garibaldi</station_name>
+       <station_desc>Avenue Gabriel Péri - 93070</station_desc>
+       <emplacement>
+           <station_lat>48.9063821642264</station_lat>
+           <station_lon>2.33191047345893</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280400"/>
+       </lignes>
+   </station>
+
+   <station id="S2612">
+       <station_name>Mairie de Clichy</station_name>
+       <station_desc>Hôpital Gouin - 92024</station_desc>
+       <emplacement>
+           <station_lat>48.9040054324296</station_lat>
+           <station_lon>2.30536812086686</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280400"/>
+       </lignes>
+   </station>
+
+   <station id="S2400">
+       <station_name>Gabriel-Péri</station_name>
+       <station_desc>Gare routière - 92004</station_desc>
+       <emplacement>
+           <station_lat>48.9165748359832</station_lat>
+           <station_lon>2.29432896468706</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280400"/>
+       </lignes>
+   </station>
+
+   <station id="S2624">
+       <station_name>Mairie de Saint-Ouen</station_name>
+       <station_desc>Place de la République - 93070</station_desc>
+       <emplacement>
+           <station_lat>48.9116216803838</station_lat>
+           <station_lon>2.33373696484209</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280400"/>
+       </lignes>
+   </station>
+
+   <station id="S2176">
+       <station_name>Carrefour-Pleyel</station_name>
+       <station_desc>Centre Paris - Pleyel - 93066</station_desc>
+       <emplacement>
+           <station_lat>48.9199435050834</station_lat>
+           <station_lon>2.34390941978589</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280400"/>
+       </lignes>
+   </station>
+
+   <station id="S2556">
+       <station_name>Les Agnettes</station_name>
+       <station_desc>Angle rue des Bas et Rue Louis Calmel - 92004</station_desc>
+       <emplacement>
+           <station_lat>48.9229163315091</station_lat>
+           <station_lon>2.28596389657663</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280400"/>
+       </lignes>
+   </station>
+
+   <station id="S2036">
+       <station_name>Asnières-Gennevilliers Les Courtilles</station_name>
+       <station_desc>Angle Boulevard Pierre de Coubertin / Avenue Lucien Lanternier - 92004</station_desc>
+       <emplacement>
+           <station_lat>48.9302936228708</station_lat>
+           <station_lon>2.28376063319525</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280400"/>
+       </lignes>
+   </station>
+
+   <station id="S3036">
+       <station_name>Saint-Denis - Porte de Paris</station_name>
+       <station_desc>Stade de France - 93066</station_desc>
+       <emplacement>
+           <station_lat>48.9299266652709</station_lat>
+           <station_lon>2.35618614918887</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280400"/>
+       </lignes>
+   </station>
+
+   <station id="S2064">
+       <station_name>Basilique de Saint-Denis</station_name>
+       <station_desc>Place du Cacquet - 93066</station_desc>
+       <emplacement>
+           <station_lat>48.9364774926505</station_lat>
+           <station_lon>2.35963974530458</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280400"/>
+       </lignes>
+   </station>
+
+   <station id="S3040">
+       <station_name>Saint-Denis-Université</station_name>
+       <station_desc>Gare Routière - 93066</station_desc>
+       <emplacement>
+           <station_lat>48.9461108724874</station_lat>
+           <station_lon>2.3620451929906</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280400"/>
+       </lignes>
+   </station>
+
+   <station id="S2280">
+       <station_name>Cour Saint-Emilion</station_name>
+       <station_desc>Cour Chamonard - 75112</station_desc>
+       <emplacement>
+           <station_lat>48.8333137155784</station_lat>
+           <station_lon>2.38729970438351</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280413"/>
+       </lignes>
+   </station>
+
+   <station id="S2088">
+       <station_name>Bibliothèque-François Mitterrand</station_name>
+       <station_desc>Face au 62 rue du Chevaleret - 75113</station_desc>
+       <emplacement>
+           <station_lat>48.8298306952711</station_lat>
+           <station_lon>2.37612000934484</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280413"/>
+       </lignes>
+   </station>
+
+   <station id="S2740">
+       <station_name>Olympiades</station_name>
+       <station_desc>Rue de Tolbiac - 75113</station_desc>
+       <emplacement>
+           <station_lat>48.8269482819608</station_lat>
+           <station_lon>2.36703843338759</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280413"/>
+       </lignes>
+   </station>
+
+   <station id="S3044">
+       <station_name>Saint-Fargeau</station_name>
+       <station_desc>112 avenue Gambetta - 75120</station_desc>
+       <emplacement>
+           <station_lat>48.8716998109711</station_lat>
+           <station_lon>2.40429872420218</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280278"/>
+       </lignes>
+   </station>
+
+   <station id="S2768">
+       <station_name>Pelleport</station_name>
+       <station_desc>Paul Signac place. en face du 125 avenue Gambetta - 75120</station_desc>
+       <emplacement>
+           <station_lat>48.8682233476073</station_lat>
+           <station_lon>2.4013243805441</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280278"/>
+       </lignes>
+   </station>
+
+   <station id="S2940">
+       <station_name>Pré-Saint-Gervais</station_name>
+       <station_desc>Serrurier 52 boulevard - 75119</station_desc>
+       <emplacement>
+           <station_lat>48.8801599321124</station_lat>
+           <station_lon>2.39858662186977</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280337"/>
+       </lignes>
+   </station>
+
+   <station id="S2312">
+       <station_name>Danube</station_name>
+       <station_desc>Rhin et Danube 9 place de - 75119</station_desc>
+       <emplacement>
+           <station_lat>48.8819510181782</station_lat>
+           <station_lon>2.39326067585739</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280337"/>
+       </lignes>
+   </station>
+
+   <station id="S2124">
+       <station_name>Botzaris</station_name>
+       <station_desc>80 rue Botzaris - 75119</station_desc>
+       <emplacement>
+           <station_lat>48.8796070889331</station_lat>
+           <station_lon>2.38941556965321</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280337"/>
+       </lignes>
+   </station>
+
+   <station id="S2152">
+       <station_name>Buttes-Chaumont</station_name>
+       <station_desc>Botzaris 28 rue - 75119</station_desc>
+       <emplacement>
+           <station_lat>48.8778039560078</station_lat>
+           <station_lon>2.38121109973599</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280337"/>
+       </lignes>
+   </station>
+
+   <station id="S2116">
+       <station_name>Bolivar</station_name>
+       <station_desc>Simon Bolivar 125 avenue - 75119</station_desc>
+       <emplacement>
+           <station_lat>48.8807901228285</station_lat>
+           <station_lon>2.37415512666265</station_lon>
+       </emplacement>
+       <lignes>
+           <lig idref="L2280337"/>
+       </lignes>
+   </station>
+
+   <ligne id="L2280236" short_name="1">
+       <nom_complet>
+           <first>CHATEAU DE VINCENNES</first>
+           <last>LA DEFENSE</last>
+       </nom_complet>
+       <route id="R1577980">
+           <direction>0</direction>
+              <arret idref="S2212" index="1"/>
+              <arret idref="S2080" index="2"/>
+              <arret idref="S3068" index="3"/>
+              <arret idref="S2924" index="4"/>
+              <arret idref="S2716" index="5"/>
+              <arret idref="S2988" index="6"/>
+              <arret idref="S2424" index="7"/>
+              <arret idref="S2068" index="8"/>
+              <arret idref="S3080" index="9"/>
+              <arret idref="S2464" index="10"/>
+              <arret idref="S2224" index="11"/>
+              <arret idref="S2592" index="12"/>
+              <arret idref="S2752" index="13"/>
+              <arret idref="S3160" index="14"/>
+              <arret idref="S2260" index="15"/>
+              <arret idref="S2184" index="16"/>
+              <arret idref="S2392" index="17"/>
+              <arret idref="S2436" index="18"/>
+              <arret idref="S2196" index="19"/>
+              <arret idref="S2028" index="20"/>
+              <arret idref="S2936" index="21"/>
+              <arret idref="S2568" index="22"/>
+              <arret idref="S2832" index="23"/>
+              <arret idref="S2356" index="24"/>
+              <arret idref="S2516" index="25"/>
+       </route>
+       <route id="R1577981">
+           <direction>1</direction>
+              <arret idref="S2516" index="1"/>
+              <arret idref="S2356" index="2"/>
+              <arret idref="S2832" index="3"/>
+              <arret idref="S2568" index="4"/>
+              <arret idref="S2936" index="5"/>
+              <arret idref="S2028" index="6"/>
+              <arret idref="S2196" index="7"/>
+              <arret idref="S2436" index="8"/>
+              <arret idref="S2392" index="9"/>
+              <arret idref="S2184" index="10"/>
+              <arret idref="S2260" index="11"/>
+              <arret idref="S3160" index="12"/>
+              <arret idref="S2752" index="13"/>
+              <arret idref="S2592" index="14"/>
+              <arret idref="S2224" index="15"/>
+              <arret idref="S2464" index="16"/>
+              <arret idref="S3080" index="17"/>
+              <arret idref="S2068" index="18"/>
+              <arret idref="S2424" index="19"/>
+              <arret idref="S2988" index="20"/>
+              <arret idref="S2716" index="21"/>
+              <arret idref="S2924" index="22"/>
+              <arret idref="S3068" index="23"/>
+              <arret idref="S2080" index="24"/>
+              <arret idref="S2212" index="25"/>
+       </route>
+   </ligne>
+
+   <ligne id="L1544644" short_name="2">
+       <nom_complet>
+           <first>NATION</first>
+           <last>PORTE DAUPHINE</last>
+       </nom_complet>
+       <route id="R1577985">
+           <direction>0</direction>
+              <arret idref="S2716" index="1"/>
+              <arret idref="S2052" index="2"/>
+              <arret idref="S2012" index="3"/>
+              <arret idref="S2784" index="4"/>
+              <arret idref="S2772" index="5"/>
+              <arret idref="S2676" index="6"/>
+              <arret idref="S2288" index="7"/>
+              <arret idref="S2076" index="8"/>
+              <arret idref="S2252" index="9"/>
+              <arret idref="S2484" index="10"/>
+              <arret idref="S3124" index="11"/>
+              <arret idref="S2508" index="12"/>
+              <arret idref="S2060" index="13"/>
+              <arret idref="S2024" index="14"/>
+              <arret idref="S2796" index="15"/>
+              <arret idref="S2100" index="16"/>
+              <arret idref="S2804" index="17"/>
+              <arret idref="S3008" index="18"/>
+              <arret idref="S3196" index="19"/>
+              <arret idref="S2700" index="20"/>
+              <arret idref="S2284" index="21"/>
+              <arret idref="S3144" index="22"/>
+              <arret idref="S2196" index="23"/>
+              <arret idref="S3180" index="24"/>
+              <arret idref="S2864" index="25"/>
+       </route>
+       <route id="R1577986">
+           <direction>1</direction>
+              <arret idref="S2864" index="1"/>
+              <arret idref="S3180" index="2"/>
+              <arret idref="S2196" index="3"/>
+              <arret idref="S3144" index="4"/>
+              <arret idref="S2284" index="5"/>
+              <arret idref="S2700" index="6"/>
+              <arret idref="S3196" index="7"/>
+              <arret idref="S3008" index="8"/>
+              <arret idref="S2804" index="9"/>
+              <arret idref="S2100" index="10"/>
+              <arret idref="S2796" index="11"/>
+              <arret idref="S2024" index="12"/>
+              <arret idref="S2060" index="13"/>
+              <arret idref="S2508" index="14"/>
+              <arret idref="S3124" index="15"/>
+              <arret idref="S2484" index="16"/>
+              <arret idref="S2252" index="17"/>
+              <arret idref="S2076" index="18"/>
+              <arret idref="S2288" index="19"/>
+              <arret idref="S2676" index="20"/>
+              <arret idref="S2772" index="21"/>
+              <arret idref="S2784" index="22"/>
+              <arret idref="S2012" index="23"/>
+              <arret idref="S2052" index="24"/>
+              <arret idref="S2716" index="25"/>
+       </route>
+   </ligne>
+
+   <ligne id="L2280265" short_name="3">
+       <nom_complet>
+           <first>GALLIENI</first>
+           <last>PONT DE LEVALLOIS - BECON</last>
+       </nom_complet>
+       <route id="R1197626">
+           <direction>0</direction>
+              <arret idref="S2408" index="1"/>
+              <arret idref="S2868" index="2"/>
+              <arret idref="S2412" index="3"/>
+              <arret idref="S2772" index="4"/>
+              <arret idref="S3024" index="5"/>
+              <arret idref="S2756" index="6"/>
+              <arret idref="S2984" index="7"/>
+              <arret idref="S3140" index="8"/>
+              <arret idref="S2032" index="9"/>
+              <arret idref="S2976" index="10"/>
+              <arret idref="S3104" index="11"/>
+              <arret idref="S2140" index="12"/>
+              <arret idref="S2960" index="13"/>
+              <arret idref="S2744" index="14"/>
+              <arret idref="S2456" index="15"/>
+              <arret idref="S3064" index="16"/>
+              <arret idref="S2364" index="17"/>
+              <arret idref="S3196" index="18"/>
+              <arret idref="S2652" index="19"/>
+              <arret idref="S3208" index="20"/>
+              <arret idref="S2776" index="21"/>
+              <arret idref="S2872" index="22"/>
+              <arret idref="S2584" index="23"/>
+              <arret idref="S2020" index="24"/>
+              <arret idref="S2828" index="25"/>
+       </route>
+       <route id="R1197627">
+           <direction>1</direction>
+              <arret idref="S2828" index="1"/>
+              <arret idref="S2020" index="2"/>
+              <arret idref="S2584" index="3"/>
+              <arret idref="S2872" index="4"/>
+              <arret idref="S2776" index="5"/>
+              <arret idref="S3208" index="6"/>
+              <arret idref="S2652" index="7"/>
+              <arret idref="S3196" index="8"/>
+              <arret idref="S2364" index="9"/>
+              <arret idref="S3064" index="10"/>
+              <arret idref="S2456" index="11"/>
+              <arret idref="S2744" index="12"/>
+              <arret idref="S2960" index="13"/>
+              <arret idref="S2140" index="14"/>
+              <arret idref="S3104" index="15"/>
+              <arret idref="S2976" index="16"/>
+              <arret idref="S2032" index="17"/>
+              <arret idref="S3140" index="18"/>
+              <arret idref="S2984" index="19"/>
+              <arret idref="S2756" index="20"/>
+              <arret idref="S3024" index="21"/>
+              <arret idref="S2772" index="22"/>
+              <arret idref="S2412" index="23"/>
+              <arret idref="S2868" index="24"/>
+              <arret idref="S2408" index="25"/>
+       </route>
+   </ligne>
+
+   <ligne id="L2280284" short_name="4">
+       <nom_complet>
+           <first>PORTE DE CLIGNANCOURT</first>
+           <last>MAIRIE DE MONTROUGE</last>
+       </nom_complet>
+       <route id="R1577987">
+           <direction>0</direction>
+              <arret idref="S2888" index="1"/>
+              <arret idref="S3116" index="2"/>
+              <arret idref="S2660" index="3"/>
+              <arret idref="S2220" index="4"/>
+              <arret idref="S2060" index="5"/>
+              <arret idref="S2428" index="6"/>
+              <arret idref="S2420" index="7"/>
+              <arret idref="S2208" index="8"/>
+              <arret idref="S3128" index="9"/>
+              <arret idref="S2976" index="10"/>
+              <arret idref="S2360" index="11"/>
+              <arret idref="S2564" index="12"/>
+              <arret idref="S2224" index="13"/>
+              <arret idref="S2244" index="14"/>
+              <arret idref="S3076" index="15"/>
+              <arret idref="S2736" index="16"/>
+              <arret idref="S3056" index="17"/>
+              <arret idref="S3096" index="18"/>
+              <arret idref="S3088" index="19"/>
+              <arret idref="S2708" index="20"/>
+              <arret idref="S3176" index="21"/>
+              <arret idref="S2972" index="22"/>
+              <arret idref="S2320" index="23"/>
+              <arret idref="S2712" index="24"/>
+              <arret idref="S2008" index="25"/>
+              <arret idref="S2860" index="26"/>
+              <arret idref="S2620" index="27"/>
+       </route>
+       <route id="R1577988">
+           <direction>1</direction>
+              <arret idref="S2620" index="1"/>
+              <arret idref="S2860" index="2"/>
+              <arret idref="S2008" index="3"/>
+              <arret idref="S2712" index="4"/>
+              <arret idref="S2320" index="5"/>
+              <arret idref="S2972" index="6"/>
+              <arret idref="S3176" index="7"/>
+              <arret idref="S2708" index="8"/>
+              <arret idref="S3088" index="9"/>
+              <arret idref="S3096" index="10"/>
+              <arret idref="S3056" index="11"/>
+              <arret idref="S2736" index="12"/>
+              <arret idref="S3076" index="13"/>
+              <arret idref="S2244" index="14"/>
+              <arret idref="S2224" index="15"/>
+              <arret idref="S2564" index="16"/>
+              <arret idref="S2360" index="17"/>
+              <arret idref="S2976" index="18"/>
+              <arret idref="S3128" index="19"/>
+              <arret idref="S2208" index="20"/>
+              <arret idref="S2420" index="21"/>
+              <arret idref="S2428" index="22"/>
+              <arret idref="S2060" index="23"/>
+              <arret idref="S2220" index="24"/>
+              <arret idref="S2660" index="25"/>
+              <arret idref="S3116" index="26"/>
+              <arret idref="S2888" index="27"/>
+       </route>
+   </ligne>
+
+   <ligne id="L2280297" short_name="5">
+       <nom_complet>
+           <first>BOBIGNY - PABLO PICASSO</first>
+           <last>PLACE D'ITALIE</last>
+       </nom_complet>
+       <route id="R1197630">
+           <direction>0</direction>
+              <arret idref="S2104" index="1"/>
+              <arret idref="S2108" index="2"/>
+              <arret idref="S2352" index="3"/>
+              <arret idref="S2460" index="4"/>
+              <arret idref="S2904" index="5"/>
+              <arret idref="S2748" index="6"/>
+              <arret idref="S2540" index="7"/>
+              <arret idref="S2484" index="8"/>
+              <arret idref="S3124" index="9"/>
+              <arret idref="S2428" index="10"/>
+              <arret idref="S2420" index="11"/>
+              <arret idref="S2476" index="12"/>
+              <arret idref="S2984" index="13"/>
+              <arret idref="S2732" index="14"/>
+              <arret idref="S2992" index="15"/>
+              <arret idref="S2144" index="16"/>
+              <arret idref="S2068" index="17"/>
+              <arret idref="S2956" index="18"/>
+              <arret idref="S2416" index="19"/>
+              <arret idref="S3072" index="20"/>
+              <arret idref="S2168" index="21"/>
+              <arret idref="S2800" index="22"/>
+       </route>
+       <route id="R1197631">
+           <direction>1</direction>
+              <arret idref="S2800" index="1"/>
+              <arret idref="S2168" index="2"/>
+              <arret idref="S3072" index="3"/>
+              <arret idref="S2416" index="4"/>
+              <arret idref="S2956" index="5"/>
+              <arret idref="S2068" index="6"/>
+              <arret idref="S2144" index="7"/>
+              <arret idref="S2992" index="8"/>
+              <arret idref="S2732" index="9"/>
+              <arret idref="S2984" index="10"/>
+              <arret idref="S2476" index="11"/>
+              <arret idref="S2420" index="12"/>
+              <arret idref="S2428" index="13"/>
+              <arret idref="S3124" index="14"/>
+              <arret idref="S2484" index="15"/>
+              <arret idref="S2540" index="16"/>
+              <arret idref="S2748" index="17"/>
+              <arret idref="S2904" index="18"/>
+              <arret idref="S2460" index="19"/>
+              <arret idref="S2352" index="20"/>
+              <arret idref="S2108" index="21"/>
+              <arret idref="S2104" index="22"/>
+       </route>
+   </ligne>
+
+   <ligne id="L2280310" short_name="6">
+       <nom_complet>
+           <first>NATION</first>
+           <last>CHARLES DE GAULLE - ETOILE</last>
+       </nom_complet>
+       <route id="R1495356">
+           <direction>0</direction>
+              <arret idref="S2716" index="1"/>
+              <arret idref="S2788" index="2"/>
+              <arret idref="S2072" index="3"/>
+              <arret idref="S2316" index="4"/>
+              <arret idref="S2324" index="5"/>
+              <arret idref="S2084" index="6"/>
+              <arret idref="S2952" index="7"/>
+              <arret idref="S2240" index="8"/>
+              <arret idref="S2720" index="9"/>
+              <arret idref="S2800" index="10"/>
+              <arret idref="S2276" index="11"/>
+              <arret idref="S2440" index="12"/>
+              <arret idref="S3060" index="13"/>
+              <arret idref="S2320" index="14"/>
+              <arret idref="S2972" index="15"/>
+              <arret idref="S2344" index="16"/>
+              <arret idref="S2708" index="17"/>
+              <arret idref="S2764" index="18"/>
+              <arret idref="S3112" index="19"/>
+              <arret idref="S2164" index="20"/>
+              <arret idref="S2524" index="21"/>
+              <arret idref="S2328" index="22"/>
+              <arret idref="S2096" index="23"/>
+              <arret idref="S2760" index="24"/>
+              <arret idref="S3156" index="25"/>
+              <arret idref="S2112" index="26"/>
+              <arret idref="S2504" index="27"/>
+              <arret idref="S2196" index="28"/>
+       </route>
+       <route id="R1495357">
+           <direction>1</direction>
+              <arret idref="S2196" index="1"/>
+              <arret idref="S2504" index="2"/>
+              <arret idref="S2112" index="3"/>
+              <arret idref="S3156" index="4"/>
+              <arret idref="S2760" index="5"/>
+              <arret idref="S2096" index="6"/>
+              <arret idref="S2328" index="7"/>
+              <arret idref="S2524" index="8"/>
+              <arret idref="S2164" index="9"/>
+              <arret idref="S3112" index="10"/>
+              <arret idref="S2764" index="11"/>
+              <arret idref="S2708" index="12"/>
+              <arret idref="S2344" index="13"/>
+              <arret idref="S2972" index="14"/>
+              <arret idref="S2320" index="15"/>
+              <arret idref="S3060" index="16"/>
+              <arret idref="S2440" index="17"/>
+              <arret idref="S2276" index="18"/>
+              <arret idref="S2800" index="19"/>
+              <arret idref="S2720" index="20"/>
+              <arret idref="S2240" index="21"/>
+              <arret idref="S2952" index="22"/>
+              <arret idref="S2084" index="23"/>
+              <arret idref="S2324" index="24"/>
+              <arret idref="S2316" index="25"/>
+              <arret idref="S2072" index="26"/>
+              <arret idref="S2788" index="27"/>
+              <arret idref="S2716" index="28"/>
+       </route>
+   </ligne>
+
+   <ligne id="L2280325" short_name="7">
+       <nom_complet>
+           <first>LA COURNEUVE - 8 MAI 1945</first>
+           <last>VILLEJUIF-L. ARAGON / MAIRIE D'IVRY</last>
+       </nom_complet>
+       <route id="R1197634">
+           <direction>0</direction>
+              <arret idref="S2512" index="1"/>
+              <arret idref="S2388" index="2"/>
+              <arret idref="S2044" index="3"/>
+              <arret idref="S2896" index="4"/>
+              <arret idref="S2268" index="5"/>
+              <arret idref="S2304" index="6"/>
+              <arret idref="S3000" index="7"/>
+              <arret idref="S3124" index="8"/>
+              <arret idref="S2580" index="9"/>
+              <arret idref="S2216" index="10"/>
+              <arret idref="S2420" index="11"/>
+              <arret idref="S2824" index="12"/>
+              <arret idref="S2160" index="13"/>
+              <arret idref="S2548" index="14"/>
+              <arret idref="S2232" index="15"/>
+              <arret idref="S2744" index="16"/>
+              <arret idref="S2944" index="17"/>
+              <arret idref="S2752" index="18"/>
+              <arret idref="S2844" index="19"/>
+              <arret idref="S2224" index="20"/>
+              <arret idref="S2840" index="21"/>
+              <arret idref="S3132" index="22"/>
+              <arret idref="S2500" index="23"/>
+              <arret idref="S2812" index="24"/>
+              <arret idref="S2180" index="25"/>
+              <arret idref="S2560" index="26"/>
+              <arret idref="S2800" index="27"/>
+              <arret idref="S3148" index="28"/>
+              <arret idref="S2632" index="29"/>
+              <arret idref="S2544" index="30"/>
+              <arret idref="S3184" index="31"/>
+              <arret idref="S3192" index="32"/>
+              <arret idref="S3188" index="33"/>
+       </route>
+       <route id="R1197635">
+           <direction>0</direction>
+              <arret idref="S2512" index="1"/>
+              <arret idref="S2388" index="2"/>
+              <arret idref="S2044" index="3"/>
+              <arret idref="S2896" index="4"/>
+              <arret idref="S2268" index="5"/>
+              <arret idref="S2304" index="6"/>
+              <arret idref="S3000" index="7"/>
+              <arret idref="S3124" index="8"/>
+              <arret idref="S2580" index="9"/>
+              <arret idref="S2216" index="10"/>
+              <arret idref="S2420" index="11"/>
+              <arret idref="S2824" index="12"/>
+              <arret idref="S2160" index="13"/>
+              <arret idref="S2548" index="14"/>
+              <arret idref="S2232" index="15"/>
+              <arret idref="S2744" index="16"/>
+              <arret idref="S2944" index="17"/>
+              <arret idref="S2752" index="18"/>
+              <arret idref="S2844" index="19"/>
+              <arret idref="S2224" index="20"/>
+              <arret idref="S2840" index="21"/>
+              <arret idref="S3132" index="22"/>
+              <arret idref="S2500" index="23"/>
+              <arret idref="S2812" index="24"/>
+              <arret idref="S2180" index="25"/>
+              <arret idref="S2560" index="26"/>
+              <arret idref="S2800" index="27"/>
+              <arret idref="S3148" index="28"/>
+              <arret idref="S2632" index="29"/>
+              <arret idref="S2852" index="30"/>
+              <arret idref="S2880" index="31"/>
+              <arret idref="S2856" index="32"/>
+              <arret idref="S2792" index="33"/>
+              <arret idref="S2608" index="34"/>
+       </route>
+       <route id="R1197637">
+           <direction>1</direction>
+              <arret idref="S2608" index="1"/>
+              <arret idref="S2792" index="2"/>
+              <arret idref="S2856" index="3"/>
+              <arret idref="S2880" index="4"/>
+              <arret idref="S2852" index="5"/>
+              <arret idref="S2632" index="6"/>
+              <arret idref="S3148" index="7"/>
+              <arret idref="S2800" index="8"/>
+              <arret idref="S2560" index="9"/>
+              <arret idref="S2180" index="10"/>
+              <arret idref="S2812" index="11"/>
+              <arret idref="S2500" index="12"/>
+              <arret idref="S3132" index="13"/>
+              <arret idref="S2840" index="14"/>
+              <arret idref="S2224" index="15"/>
+              <arret idref="S2844" index="16"/>
+              <arret idref="S2752" index="17"/>
+              <arret idref="S2944" index="18"/>
+              <arret idref="S2744" index="19"/>
+              <arret idref="S2232" index="20"/>
+              <arret idref="S2548" index="21"/>
+              <arret idref="S2160" index="22"/>
+              <arret idref="S2824" index="23"/>
+              <arret idref="S2420" index="24"/>
+              <arret idref="S2216" index="25"/>
+              <arret idref="S2580" index="26"/>
+              <arret idref="S3124" index="27"/>
+              <arret idref="S3000" index="28"/>
+              <arret idref="S2304" index="29"/>
+              <arret idref="S2268" index="30"/>
+              <arret idref="S2896" index="31"/>
+              <arret idref="S2044" index="32"/>
+              <arret idref="S2388" index="33"/>
+              <arret idref="S2512" index="34"/>
+       </route>
+       <route id="R1197636">
+           <direction>1</direction>
+              <arret idref="S3188" index="1"/>
+              <arret idref="S3192" index="2"/>
+              <arret idref="S3184" index="3"/>
+              <arret idref="S2544" index="4"/>
+              <arret idref="S2632" index="5"/>
+              <arret idref="S3148" index="6"/>
+              <arret idref="S2800" index="7"/>
+              <arret idref="S2560" index="8"/>
+              <arret idref="S2180" index="9"/>
+              <arret idref="S2812" index="10"/>
+              <arret idref="S2500" index="11"/>
+              <arret idref="S3132" index="12"/>
+              <arret idref="S2840" index="13"/>
+              <arret idref="S2224" index="14"/>
+              <arret idref="S2844" index="15"/>
+              <arret idref="S2752" index="16"/>
+              <arret idref="S2944" index="17"/>
+              <arret idref="S2744" index="18"/>
+              <arret idref="S2232" index="19"/>
+              <arret idref="S2548" index="20"/>
+              <arret idref="S2160" index="21"/>
+              <arret idref="S2824" index="22"/>
+              <arret idref="S2420" index="23"/>
+              <arret idref="S2216" index="24"/>
+              <arret idref="S2580" index="25"/>
+              <arret idref="S3124" index="26"/>
+              <arret idref="S3000" index="27"/>
+              <arret idref="S2304" index="28"/>
+              <arret idref="S2268" index="29"/>
+              <arret idref="S2896" index="30"/>
+              <arret idref="S2044" index="31"/>
+              <arret idref="S2388" index="32"/>
+              <arret idref="S2512" index="33"/>
+       </route>
+   </ligne>
+
+   <ligne id="L2280344" short_name="8">
+       <nom_complet>
+           <first>BALARD</first>
+           <last>POINTE DU LAC</last>
+       </nom_complet>
+       <route id="R1197658">
+           <direction>0</direction>
+              <arret idref="S2056" index="1"/>
+              <arret idref="S2588" index="2"/>
+              <arret idref="S2128" index="3"/>
+              <arret idref="S2380" index="4"/>
+              <arret idref="S2256" index="5"/>
+              <arret idref="S2524" index="6"/>
+              <arret idref="S2336" index="7"/>
+              <arret idref="S2532" index="8"/>
+              <arret idref="S2472" index="9"/>
+              <arret idref="S2260" index="10"/>
+              <arret idref="S2600" index="11"/>
+              <arret idref="S2744" index="12"/>
+              <arret idref="S2996" index="13"/>
+              <arret idref="S2448" index="14"/>
+              <arret idref="S2120" index="15"/>
+              <arret idref="S3128" index="16"/>
+              <arret idref="S2984" index="17"/>
+              <arret idref="S2384" index="18"/>
+              <arret idref="S3092" index="19"/>
+              <arret idref="S2236" index="20"/>
+              <arret idref="S2068" index="21"/>
+              <arret idref="S2552" index="22"/>
+              <arret idref="S2372" index="23"/>
+              <arret idref="S2988" index="24"/>
+              <arret idref="S2704" index="25"/>
+              <arret idref="S2316" index="26"/>
+              <arret idref="S2680" index="27"/>
+              <arret idref="S2932" index="28"/>
+              <arret idref="S2876" index="29"/>
+              <arret idref="S2572" index="30"/>
+              <arret idref="S2192" index="31"/>
+              <arret idref="S2340" index="32"/>
+              <arret idref="S2640" index="33"/>
+              <arret idref="S2636" index="34"/>
+              <arret idref="S2292" index="35"/>
+              <arret idref="S2300" index="36"/>
+              <arret idref="S2296" index="37"/>
+              <arret idref="S2820" index="38"/>
+       </route>
+       <route id="R1197659">
+           <direction>1</direction>
+              <arret idref="S2820" index="1"/>
+              <arret idref="S2296" index="2"/>
+              <arret idref="S2300" index="3"/>
+              <arret idref="S2292" index="4"/>
+              <arret idref="S2636" index="5"/>
+              <arret idref="S2640" index="6"/>
+              <arret idref="S2340" index="7"/>
+              <arret idref="S2192" index="8"/>
+              <arret idref="S2572" index="9"/>
+              <arret idref="S2876" index="10"/>
+              <arret idref="S2932" index="11"/>
+              <arret idref="S2680" index="12"/>
+              <arret idref="S2316" index="13"/>
+              <arret idref="S2704" index="14"/>
+              <arret idref="S2988" index="15"/>
+              <arret idref="S2372" index="16"/>
+              <arret idref="S2552" index="17"/>
+              <arret idref="S2068" index="18"/>
+              <arret idref="S2236" index="19"/>
+              <arret idref="S3092" index="20"/>
+              <arret idref="S2384" index="21"/>
+              <arret idref="S2984" index="22"/>
+              <arret idref="S3128" index="23"/>
+              <arret idref="S2120" index="24"/>
+              <arret idref="S2448" index="25"/>
+              <arret idref="S2996" index="26"/>
+              <arret idref="S2744" index="27"/>
+              <arret idref="S2600" index="28"/>
+              <arret idref="S2260" index="29"/>
+              <arret idref="S2472" index="30"/>
+              <arret idref="S2532" index="31"/>
+              <arret idref="S2336" index="32"/>
+              <arret idref="S2524" index="33"/>
+              <arret idref="S2256" index="34"/>
+              <arret idref="S2380" index="35"/>
+              <arret idref="S2128" index="36"/>
+              <arret idref="S2588" index="37"/>
+              <arret idref="S2056" index="38"/>
+       </route>
+   </ligne>
+
+   <ligne id="L2280360" short_name="9">
+       <nom_complet>
+           <first>PONT DE SEVRES</first>
+           <last>MAIRIE DE MONTREUIL</last>
+       </nom_complet>
+       <route id="R1419803">
+           <direction>0</direction>
+              <arret idref="S2836" index="1"/>
+              <arret idref="S2092" index="2"/>
+              <arret idref="S2664" index="3"/>
+              <arret idref="S2908" index="4"/>
+              <arret idref="S2368" index="5"/>
+              <arret idref="S2688" index="6"/>
+              <arret idref="S2684" index="7"/>
+              <arret idref="S2480" index="8"/>
+              <arret idref="S2968" index="9"/>
+              <arret idref="S2528" index="10"/>
+              <arret idref="S3012" index="11"/>
+              <arret idref="S3156" index="12"/>
+              <arret idref="S2468" index="13"/>
+              <arret idref="S2016" index="14"/>
+              <arret idref="S2392" index="15"/>
+              <arret idref="S3084" index="16"/>
+              <arret idref="S2696" index="17"/>
+              <arret idref="S3032" index="18"/>
+              <arret idref="S2456" index="19"/>
+              <arret idref="S2232" index="20"/>
+              <arret idref="S2996" index="21"/>
+              <arret idref="S2448" index="22"/>
+              <arret idref="S2120" index="23"/>
+              <arret idref="S3128" index="24"/>
+              <arret idref="S2984" index="25"/>
+              <arret idref="S2732" index="26"/>
+              <arret idref="S3028" index="27"/>
+              <arret idref="S3204" index="28"/>
+              <arret idref="S2204" index="29"/>
+              <arret idref="S3016" index="30"/>
+              <arret idref="S2716" index="31"/>
+              <arret idref="S2156" index="32"/>
+              <arret idref="S2656" index="33"/>
+              <arret idref="S2900" index="34"/>
+              <arret idref="S3004" index="35"/>
+              <arret idref="S2308" index="36"/>
+              <arret idref="S2616" index="37"/>
+       </route>
+       <route id="R1419804">
+           <direction>1</direction>
+              <arret idref="S2616" index="1"/>
+              <arret idref="S2308" index="2"/>
+              <arret idref="S3004" index="3"/>
+              <arret idref="S2900" index="4"/>
+              <arret idref="S2656" index="5"/>
+              <arret idref="S2156" index="6"/>
+              <arret idref="S2716" index="7"/>
+              <arret idref="S3016" index="8"/>
+              <arret idref="S2204" index="9"/>
+              <arret idref="S3204" index="10"/>
+              <arret idref="S3028" index="11"/>
+              <arret idref="S2732" index="12"/>
+              <arret idref="S2984" index="13"/>
+              <arret idref="S3128" index="14"/>
+              <arret idref="S2120" index="15"/>
+              <arret idref="S2448" index="16"/>
+              <arret idref="S2996" index="17"/>
+              <arret idref="S2232" index="18"/>
+              <arret idref="S2456" index="19"/>
+              <arret idref="S3032" index="20"/>
+              <arret idref="S2696" index="21"/>
+              <arret idref="S3084" index="22"/>
+              <arret idref="S2392" index="23"/>
+              <arret idref="S2016" index="24"/>
+              <arret idref="S2468" index="25"/>
+              <arret idref="S3156" index="26"/>
+              <arret idref="S3012" index="27"/>
+              <arret idref="S2528" index="28"/>
+              <arret idref="S2968" index="29"/>
+              <arret idref="S2480" index="30"/>
+              <arret idref="S2684" index="31"/>
+              <arret idref="S2688" index="32"/>
+              <arret idref="S2368" index="33"/>
+              <arret idref="S2908" index="34"/>
+              <arret idref="S2664" index="35"/>
+              <arret idref="S2092" index="36"/>
+              <arret idref="S2836" index="37"/>
+       </route>
+   </ligne>
+
+   <ligne id="L2280372" short_name="10">
+       <nom_complet>
+           <first>BOULOGNE - PONT DE SAINT CLOUD</first>
+           <last>GARE D'AUSTERLITZ</last>
+       </nom_complet>
+       <route id="R1577982">
+           <direction>0</direction>
+              <arret idref="S2132" index="1"/>
+              <arret idref="S2136" index="2"/>
+              <arret idref="S2688" index="3"/>
+              <arret idref="S2188" index="4"/>
+              <arret idref="S2692" index="5"/>
+              <arret idref="S2488" index="6"/>
+              <arret idref="S2200" index="7"/>
+              <arret idref="S2048" index="8"/>
+              <arret idref="S2524" index="9"/>
+              <arret idref="S3100" index="10"/>
+              <arret idref="S2332" index="11"/>
+              <arret idref="S3164" index="12"/>
+              <arret idref="S3108" index="13"/>
+              <arret idref="S2596" index="14"/>
+              <arret idref="S2736" index="15"/>
+              <arret idref="S2248" index="16"/>
+              <arret idref="S2672" index="17"/>
+              <arret idref="S2172" index="18"/>
+              <arret idref="S2500" index="19"/>
+              <arret idref="S2416" index="20"/>
+       </route>
+       <route id="R1577984">
+           <direction>1</direction>
+              <arret idref="S2416" index="1"/>
+              <arret idref="S2500" index="2"/>
+              <arret idref="S2172" index="3"/>
+              <arret idref="S2672" index="4"/>
+              <arret idref="S2248" index="5"/>
+              <arret idref="S2736" index="6"/>
+              <arret idref="S2596" index="7"/>
+              <arret idref="S3108" index="8"/>
+              <arret idref="S3164" index="9"/>
+              <arret idref="S2332" index="10"/>
+              <arret idref="S3100" index="11"/>
+              <arret idref="S2524" index="12"/>
+              <arret idref="S2048" index="13"/>
+              <arret idref="S2200" index="14"/>
+              <arret idref="S2488" index="15"/>
+              <arret idref="S2348" index="16"/>
+              <arret idref="S2684" index="17"/>
+              <arret idref="S2848" index="18"/>
+              <arret idref="S2136" index="19"/>
+              <arret idref="S2132" index="20"/>
+       </route>
+   </ligne>
+
+   <ligne id="L2280382" short_name="11">
+       <nom_complet>
+           <first>MAIRIE DES LILAS</first>
+           <last>CHATELET</last>
+       </nom_complet>
+       <route id="R1197616">
+           <direction>0</direction>
+              <arret idref="S2628" index="1"/>
+              <arret idref="S2928" index="2"/>
+              <arret idref="S3136" index="3"/>
+              <arret idref="S2808" index="4"/>
+              <arret idref="S2492" index="5"/>
+              <arret idref="S2948" index="6"/>
+              <arret idref="S2076" index="7"/>
+              <arret idref="S2444" index="8"/>
+              <arret idref="S2984" index="9"/>
+              <arret idref="S2032" index="10"/>
+              <arret idref="S2964" index="11"/>
+              <arret idref="S2464" index="12"/>
+              <arret idref="S2224" index="13"/>
+       </route>
+       <route id="R1197617">
+           <direction>1</direction>
+              <arret idref="S2224" index="1"/>
+              <arret idref="S2464" index="2"/>
+              <arret idref="S2964" index="3"/>
+              <arret idref="S2032" index="4"/>
+              <arret idref="S2984" index="5"/>
+              <arret idref="S2444" index="6"/>
+              <arret idref="S2076" index="7"/>
+              <arret idref="S2948" index="8"/>
+              <arret idref="S2492" index="9"/>
+              <arret idref="S2808" index="10"/>
+              <arret idref="S3136" index="11"/>
+              <arret idref="S2928" index="12"/>
+              <arret idref="S2628" index="13"/>
+       </route>
+   </ligne>
+
+   <ligne id="L2280396" short_name="12">
+       <nom_complet>
+           <first>MAIRIE D'ISSY</first>
+           <last>FRONT POPULAIRE</last>
+       </nom_complet>
+       <route id="R1488308">
+           <direction>0</direction>
+              <arret idref="S2604" index="1"/>
+              <arret idref="S2272" index="2"/>
+              <arret idref="S2920" index="3"/>
+              <arret idref="S2264" index="4"/>
+              <arret idref="S3172" index="5"/>
+              <arret idref="S3200" index="6"/>
+              <arret idref="S2764" index="7"/>
+              <arret idref="S2376" index="8"/>
+              <arret idref="S2708" index="9"/>
+              <arret idref="S2728" index="10"/>
+              <arret idref="S2980" index="11"/>
+              <arret idref="S3108" index="12"/>
+              <arret idref="S3020" index="13"/>
+              <arret idref="S3120" index="14"/>
+              <arret idref="S2040" index="15"/>
+              <arret idref="S2260" index="16"/>
+              <arret idref="S2600" index="17"/>
+              <arret idref="S3064" index="18"/>
+              <arret idref="S3152" index="19"/>
+              <arret idref="S2724" index="20"/>
+              <arret idref="S3052" index="21"/>
+              <arret idref="S2796" index="22"/>
+              <arret idref="S2004" index="23"/>
+              <arret idref="S2536" index="24"/>
+              <arret idref="S2496" index="25"/>
+              <arret idref="S2660" index="26"/>
+              <arret idref="S2668" index="27"/>
+              <arret idref="S2892" index="28"/>
+              <arret idref="S2396" index="29"/>
+       </route>
+       <route id="R1488309">
+           <direction>1</direction>
+              <arret idref="S2396" index="1"/>
+              <arret idref="S2892" index="2"/>
+              <arret idref="S2668" index="3"/>
+              <arret idref="S2660" index="4"/>
+              <arret idref="S2496" index="5"/>
+              <arret idref="S2536" index="6"/>
+              <arret idref="S2004" index="7"/>
+              <arret idref="S2796" index="8"/>
+              <arret idref="S3052" index="9"/>
+              <arret idref="S2724" index="10"/>
+              <arret idref="S3152" index="11"/>
+              <arret idref="S3064" index="12"/>
+              <arret idref="S2600" index="13"/>
+              <arret idref="S2260" index="14"/>
+              <arret idref="S2040" index="15"/>
+              <arret idref="S3120" index="16"/>
+              <arret idref="S3020" index="17"/>
+              <arret idref="S3108" index="18"/>
+              <arret idref="S2980" index="19"/>
+              <arret idref="S2728" index="20"/>
+              <arret idref="S2708" index="21"/>
+              <arret idref="S2376" index="22"/>
+              <arret idref="S2764" index="23"/>
+              <arret idref="S3200" index="24"/>
+              <arret idref="S3172" index="25"/>
+              <arret idref="S2264" index="26"/>
+              <arret idref="S2920" index="27"/>
+              <arret idref="S2272" index="28"/>
+              <arret idref="S2604" index="29"/>
+       </route>
+   </ligne>
+
+   <ligne id="L2280400" short_name="13">
+       <nom_complet>
+           <first>CHATILLON - MONTROUGE</first>
+           <last>ST-DENIS-UNIVERSITE/LES COURTILLES</last>
+       </nom_complet>
+       <route id="R1197620">
+           <direction>0</direction>
+              <arret idref="S2228" index="1"/>
+              <arret idref="S2648" index="2"/>
+              <arret idref="S2644" index="3"/>
+              <arret idref="S2916" index="4"/>
+              <arret idref="S2816" index="5"/>
+              <arret idref="S2780" index="6"/>
+              <arret idref="S2404" index="7"/>
+              <arret idref="S2708" index="8"/>
+              <arret idref="S2332" index="9"/>
+              <arret idref="S3048" index="10"/>
+              <arret idref="S3168" index="11"/>
+              <arret idref="S2472" index="12"/>
+              <arret idref="S2184" index="13"/>
+              <arret idref="S2696" index="14"/>
+              <arret idref="S3064" index="15"/>
+              <arret idref="S2576" index="16"/>
+              <arret idref="S2804" index="17"/>
+              <arret idref="S2520" index="18"/>
+              <arret idref="S2148" index="19"/>
+              <arret idref="S2884" index="20"/>
+              <arret idref="S2612" index="21"/>
+              <arret idref="S2400" index="22"/>
+              <arret idref="S2556" index="23"/>
+              <arret idref="S2036" index="24"/>
+       </route>
+       <route id="R1197621">
+           <direction>0</direction>
+              <arret idref="S2228" index="1"/>
+              <arret idref="S2648" index="2"/>
+              <arret idref="S2644" index="3"/>
+              <arret idref="S2916" index="4"/>
+              <arret idref="S2816" index="5"/>
+              <arret idref="S2780" index="6"/>
+              <arret idref="S2404" index="7"/>
+              <arret idref="S2708" index="8"/>
+              <arret idref="S2332" index="9"/>
+              <arret idref="S3048" index="10"/>
+              <arret idref="S3168" index="11"/>
+              <arret idref="S2472" index="12"/>
+              <arret idref="S2184" index="13"/>
+              <arret idref="S2696" index="14"/>
+              <arret idref="S3064" index="15"/>
+              <arret idref="S2576" index="16"/>
+              <arret idref="S2804" index="17"/>
+              <arret idref="S2520" index="18"/>
+              <arret idref="S2452" index="19"/>
+              <arret idref="S2912" index="20"/>
+              <arret idref="S2432" index="21"/>
+              <arret idref="S2624" index="22"/>
+              <arret idref="S2176" index="23"/>
+              <arret idref="S3036" index="24"/>
+              <arret idref="S2064" index="25"/>
+              <arret idref="S3040" index="26"/>
+       </route>
+       <route id="R1197622">
+           <direction>1</direction>
+              <arret idref="S2036" index="1"/>
+              <arret idref="S2556" index="2"/>
+              <arret idref="S2400" index="3"/>
+              <arret idref="S2612" index="4"/>
+              <arret idref="S2884" index="5"/>
+              <arret idref="S2148" index="6"/>
+              <arret idref="S2520" index="7"/>
+              <arret idref="S2804" index="8"/>
+              <arret idref="S2576" index="9"/>
+              <arret idref="S3064" index="10"/>
+              <arret idref="S2696" index="11"/>
+              <arret idref="S2184" index="12"/>
+              <arret idref="S2472" index="13"/>
+              <arret idref="S3168" index="14"/>
+              <arret idref="S3048" index="15"/>
+              <arret idref="S2332" index="16"/>
+              <arret idref="S2708" index="17"/>
+              <arret idref="S2404" index="18"/>
+              <arret idref="S2780" index="19"/>
+              <arret idref="S2816" index="20"/>
+              <arret idref="S2916" index="21"/>
+              <arret idref="S2644" index="22"/>
+              <arret idref="S2648" index="23"/>
+              <arret idref="S2228" index="24"/>
+       </route>
+       <route id="R1197623">
+           <direction>1</direction>
+              <arret idref="S3040" index="1"/>
+              <arret idref="S2064" index="2"/>
+              <arret idref="S3036" index="3"/>
+              <arret idref="S2176" index="4"/>
+              <arret idref="S2624" index="5"/>
+              <arret idref="S2432" index="6"/>
+              <arret idref="S2912" index="7"/>
+              <arret idref="S2452" index="8"/>
+              <arret idref="S2520" index="9"/>
+              <arret idref="S2804" index="10"/>
+              <arret idref="S2576" index="11"/>
+              <arret idref="S3064" index="12"/>
+              <arret idref="S2696" index="13"/>
+              <arret idref="S2184" index="14"/>
+              <arret idref="S2472" index="15"/>
+              <arret idref="S3168" index="16"/>
+              <arret idref="S3048" index="17"/>
+              <arret idref="S2332" index="18"/>
+              <arret idref="S2708" index="19"/>
+              <arret idref="S2404" index="20"/>
+              <arret idref="S2780" index="21"/>
+              <arret idref="S2816" index="22"/>
+              <arret idref="S2916" index="23"/>
+              <arret idref="S2644" index="24"/>
+              <arret idref="S2648" index="25"/>
+              <arret idref="S2228" index="26"/>
+       </route>
+   </ligne>
+
+   <ligne id="L2280413" short_name="14">
+       <nom_complet>
+           <first>SAINT-LAZARE</first>
+           <last>OLYMPIADES</last>
+       </nom_complet>
+       <route id="R1382497">
+           <direction>0</direction>
+              <arret idref="S3064" index="1"/>
+              <arret idref="S2600" index="2"/>
+              <arret idref="S2944" index="3"/>
+              <arret idref="S2224" index="4"/>
+              <arret idref="S2424" index="5"/>
+              <arret idref="S2084" index="6"/>
+              <arret idref="S2280" index="7"/>
+              <arret idref="S2088" index="8"/>
+              <arret idref="S2740" index="9"/>
+       </route>
+       <route id="R1382498">
+           <direction>1</direction>
+              <arret idref="S2740" index="1"/>
+              <arret idref="S2088" index="2"/>
+              <arret idref="S2280" index="3"/>
+              <arret idref="S2084" index="4"/>
+              <arret idref="S2424" index="5"/>
+              <arret idref="S2224" index="6"/>
+              <arret idref="S2944" index="7"/>
+              <arret idref="S2600" index="8"/>
+              <arret idref="S3064" index="9"/>
+       </route>
+   </ligne>
+
+   <ligne id="L2280278" short_name="3B">
+       <nom_complet>
+           <first>PORTE DES LILAS</first>
+           <last>GAMBETTA</last>
+       </nom_complet>
+       <route id="R708898">
+           <direction>0</direction>
+              <arret idref="S2928" index="1"/>
+              <arret idref="S3044" index="2"/>
+              <arret idref="S2768" index="3"/>
+              <arret idref="S2412" index="4"/>
+       </route>
+       <route id="R708899">
+           <direction>1</direction>
+              <arret idref="S2412" index="1"/>
+              <arret idref="S2768" index="2"/>
+              <arret idref="S3044" index="3"/>
+              <arret idref="S2928" index="4"/>
+       </route>
+   </ligne>
+
+   <ligne id="L2280337" short_name="7B">
+       <nom_complet>
+           <first>PRE-SAINT-GERVAIS</first>
+           <last>LOUIS BLANC</last>
+       </nom_complet>
+       <route id="R656103">
+           <direction>0</direction>
+              <arret idref="S2940" index="1"/>
+              <arret idref="S2312" index="2"/>
+              <arret idref="S2124" index="3"/>
+              <arret idref="S2152" index="4"/>
+              <arret idref="S2116" index="5"/>
+              <arret idref="S2484" index="6"/>
+              <arret idref="S2580" index="7"/>
+       </route>
+       <route id="R656104">
+           <direction>1</direction>
+              <arret idref="S2580" index="1"/>
+              <arret idref="S2484" index="2"/>
+              <arret idref="S2116" index="3"/>
+              <arret idref="S2152" index="4"/>
+              <arret idref="S2124" index="5"/>
+              <arret idref="S2808" index="6"/>
+              <arret idref="S2940" index="7"/>
+       </route>
+   </ligne>
+
+</metro>
