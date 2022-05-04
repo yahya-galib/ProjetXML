@@ -5,11 +5,15 @@
 		xmlns="http://www.w3.org/2000/svg"
 		>
 <!-- Paramètres changable -->
-  <xsl:variable name="ligne_select" >L1544644</xsl:variable>
+  <xsl:variable name="ligne_select" >L2280400</xsl:variable>
   <xsl:variable name="svg_width" select="5000"/>
-  <xsl:variable name="svg_height" select="800"/>
+  <xsl:variable name="svg_height" select="1000"/>
 <!-- Fin -->
 	
+	
+	
+	
+		
   <xsl:output
       method="xml"
       indent="yes"
@@ -19,9 +23,12 @@
       media-type="image/svg" />		
 
 
+<xsl:key name="idstation" match="station" use="@id"/>
+<xsl:key name="idligne" match="ligne" use="@id"/>
+
   <xsl:template match="/">
     <svg xmlns="http://www.w3.org/2000/svg" width="{$svg_width}" height="{$svg_height}" >
-      <rect x="0" y="0" width="{$svg_width}" height="{$svg_height}" fill="white"/>  
+      <rect x="0" y="0" width="{$svg_width}" height="{$svg_height}" fill="white"/>        
       <xsl:apply-templates/>
     </svg>
   </xsl:template>
@@ -31,6 +38,9 @@
      <xsl:apply-templates select="ligne[@id = $ligne_select]"/>
   </xsl:template>
 
+
+
+
   
   <xsl:template match="ligne"> 
     <text transform="translate (10, 40) "
@@ -38,7 +48,9 @@
 	Ligne : <xsl:value-of select="@short_name"/>
     </text> 
   <xsl:apply-templates select="nom_complet"/> 
-  <xsl:apply-templates select="route"/> 
+  <xsl:apply-templates select="trajet">
+     <xsl:with-param name="routes" select="count(route)"/>
+  </xsl:apply-templates>
   </xsl:template>
   
   <xsl:template match="nom_complet"> 
@@ -47,61 +59,73 @@
 	Nom Complet : <xsl:value-of select="first"/> - <xsl:value-of select="last"/>
     </text> 
   </xsl:template>
-  <xsl:template match="route"> 
-    <xsl:choose>
-	<xsl:when test="position()=1">
-		<xsl:apply-templates select="arret"/> 
-	</xsl:when>
-    </xsl:choose>
-    
+  <xsl:template match="trajet"> 
+  	<xsl:param name="routes"/>
+  	
+	<xsl:apply-templates select="arret">
+     	    <xsl:with-param name="routes" select="$routes"/>
+  	</xsl:apply-templates>
   </xsl:template>
   <xsl:template match="arret"> 
-  	<xsl:variable name="idref" select="@idref"/>
+  	<xsl:param name="routes"/>
   	<!-- Verifie si derniere station -->
           <xsl:choose>
 		  <xsl:when test="position()!=last()">
-		  <line x1="{150*position()}" y1="500" x2="{150*(position()+1)}" y2="500"
+		  <line x1="{150*position()}" y1="600" x2="{150*(position()+1)}" y2="600"
 		  stroke="black" stroke-width="25" stroke-linecap="round"/>
-		  <line x1="{150*position()}" y1="500" x2="{150*(position()+1)}" y2="500"
+		  <line x1="{150*position()}" y1="600" x2="{150*(position()+1)}" y2="600"
 		  stroke="green" stroke-width="18" stroke-linecap="round"/>
 		  </xsl:when>
           </xsl:choose>
-       <!-- Nom de la station -->
-        <text transform="translate ({150*position()}, 450) rotate(-45)"
-	font-family="Verdana" font-size="35" fill="black">
-	<xsl:value-of select="ancestor::*/station[@id = $idref]/station_name"/>
-    	</text> 
     	<!-- Apparence d'une station -->
-          <xsl:call-template name="correspondance">
-             <xsl:with-param name="x" select="150*position()"/>
-             <xsl:with-param name="y" select="500"/>
-             <xsl:with-param name="id" select="@idref"/>
-          </xsl:call-template>  
+    	
+	<xsl:apply-templates select="station"> 
+	     <xsl:with-param name="x" select="150*position()"/>
+             <xsl:with-param name="routes" select="$routes"/>
+        </xsl:apply-templates>
   </xsl:template>
-  <xsl:template name="correspondance"> 
+  <xsl:template match="station"> 
   	<xsl:param name="x"/>
-  	<xsl:param name="y"/>
-  	<xsl:param name="id"/>
+  	<xsl:param name="routes"/>
+  	<xsl:variable name="y"> 
+  	    <xsl:choose>
+  	    	<xsl:when test="$routes != count(route)">
+  		    <xsl:value-of select="300 * position()"/>
+  		</xsl:when>
+     		<xsl:otherwise>
+       	    <xsl:value-of select="450"/>
+     		</xsl:otherwise>
+  	    </xsl:choose>
+  	</xsl:variable>
+    	<!-- Nom de la station -->
+        <text transform="translate ({$x}, {$y - 50}) rotate(-45)"
+	font-family="Verdana" font-size="35" fill="black">
+	<xsl:value-of select="key('idstation',@idref)/station_name"/>
+	<xsl:value-of select="count(route)"/>
+	<xsl:value-of select="$x"/>
+    	</text> 
+    	<!-- Cercle d'un arret -->
     	<xsl:choose>
-	      <xsl:when test="count(ancestor::*/station[@id = $id]/lignes/lig)>1">
+    		<!-- Quand il y a une correspondance -->
+	      <xsl:when test="count(key('idstation',@idref)/lignes/lig)>1">
 	           <line x1="{$x}" y1="{$y}" x2="{$x}" y2="{$y+100}"
 		   stroke="black" stroke-width="2"/>
 		   <circle cx="{$x}" cy="{$y}" r="30"
           	   fill="white" stroke="black" stroke-width="5"/>
-          	   <xsl:for-each select="ancestor::*/station[@id = $id]/lignes/lig[not(@idref=$ligne_select)]">	   	
+          	   <xsl:for-each select="key('idstation',@idref)/lignes/lig[not(@idref=$ligne_select)]">	   	
           	   	<circle cx="{$x}" cy="{$y+position()*60 + 50}" r="30"
           	   	fill="blue"/>
           	   	<text x="{$x}" y="{$y+position()*60 + 60}" text-anchor="middle" font-family="Verdana" font-size="30" font-weight="bold" fill="white">
 		    	<xsl:variable name="idref" select="@idref"/>
-			<xsl:value-of select="ancestor::*/ligne[@id = $idref]/@short_name"/>
+			<xsl:value-of select="key('idligne',$idref)/@short_name"/>
 		    	</text> 
           	   </xsl:for-each>
 	      </xsl:when>
-	      <xsl:when test="count(ancestor::*/station[@id = $id]/lignes/lig)=1">
-		   <circle cx="{150*position()}" cy="500" r="30"
+	      <!-- Quand il n'y a pas une correspondance -->
+	      <xsl:when test="count(key('idstation',@idref)/lignes/lig)=1">
+		   <circle cx="{$x}" cy="{$y}" r="30"
           	   fill="green" stroke="black" stroke-width="5"/>
 	      </xsl:when>
         </xsl:choose>
   </xsl:template>
-  
 </xsl:stylesheet>
